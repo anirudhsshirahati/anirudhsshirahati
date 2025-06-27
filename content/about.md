@@ -6,16 +6,52 @@ aliases = ["about-me", "about-anirudh", "contact"]
 author = "Anirudh S Shirahati"
 +++
 
-Anirudh is a Data Enthusiast and enjoys working on challenging real world problems.
+👋 Hi, I'm **Anirudh** — a software and data professional who enjoys solving real-world problems through clean code, thoughtful design, and continuous learning.
 
-He earned his Master's degree in Computer Science with a concentration on Data Science, worked for 6+ years in multiple domains like Banking and Finance, Renewable Energy, Clean Tech contributing to the growth of organizations like JP Morgan Chase, ICICI Bank, National Commercial Bank, RWE Clean Energy Services, LLC as a Software Engineer and delivered high quality products to his customers. He is currently working as a Software Engineering Manager, architecting, building and maintaining Machine Learning infrastructure on Google Cloud Platform (GCP). With strong skills in Software Engineering, Cloud Computing, Data Mining and Machine Learning, he has experience
+Over the last **6+ years**, I've worked across **Banking**, **Finance**, **Renewable Energy**, and **Clean Tech**, contributing to teams at **JP Morgan Chase**, **ICICI Bank**, **National Commercial Bank**, and **RWE Clean Energy Services, LLC**. I’ve built and maintained production-grade systems that power business-critical tools and data workflows.
 
-* Working end-to-end in Software Development projects
-* Building and Deploying Software, Data and ML products on public cloud
-* Performing Data Analysis
-* Data Visualization
-* Training, Testing, and Evaluating the Machine Learning models
+Currently, I work as a **Software Engineering Manager**, focused on building and maintaining **Machine Learning infrastructure on Google Cloud Platform (GCP)**. While the title includes “manager,” my day-to-day involves a strong **individual contributor focus** — designing, coding, deploying, and improving technical systems.
 
-Anirudh likes to stay updated with the current trends in technology and is a member of the Analytics and Big Data Society based in Charlotte, North Carolina, US. He is also a member of The Honor Society of Phi Kappa Phi. He likes going outdoors, traveling, playing soccer, badminton, spikeball and meeting new people.
+---
 
-Learn more about his skills, experience, and feel free to connect with him with new ideas and opportunities.
+## 🔧 What I Offer
+
+I bring practical, hands-on experience in:
+
+- **Software Development** – Writing clean, modular code for backend systems and tools
+- **Data Engineering** – Cleaning, transforming, and preparing data for analytics and ML pipelines
+- **Dashboarding & Visualization** – Creating actionable dashboards to support business decisions
+- **Cloud Engineering** – Building and deploying systems on GCP with CI/CD pipelines
+- **Automation & CI/CD** – Streamlining workflows using modern DevOps practices
+
+My technical foundation includes skills in **Python**, **SQL**, **GCP**, **Docker**, and tools like **Looker** and **Data Studio**. I’ve also been actively expanding into **Data Science and Machine Learning**, working on internal projects and self-driven learning to strengthen that transition.
+
+---
+
+## 🎯 Career Focus
+
+I'm currently exploring roles where I can:
+
+- **Leverage my software and data experience**
+- **Continue working on real-world problems with clean code and scalable solutions**
+- **Grow deeper into Data Science, Machine Learning, and AI engineering**
+
+I'm especially excited about opportunities that blend **software craftsmanship**, **data understanding**, and **ML potential**, where I can contribute right away while continuing to learn and evolve.
+
+---
+
+## 🌱 Community & Interests
+
+I'm a member of the **Analytics and Big Data Society** (Charlotte, NC) and **The Honor Society of Phi Kappa Phi**, staying active in communities focused on technology and learning.
+
+Outside of work, I enjoy:
+- ⚽ Playing soccer, badminton, and spikeball
+- 🌍 Traveling and exploring new places
+- 🤝 Meeting people and sharing ideas
+
+---
+
+## 📬 Let’s Connect
+
+If you're working on something impactful in **software**, **data**, or **AI**, I'd love to hear about it.  
+Feel free to [reach out](#) — I’m open to new opportunities and collaborations that make a difference.
