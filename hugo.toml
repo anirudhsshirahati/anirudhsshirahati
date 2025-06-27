@@ -1,0 +1,93 @@
+baseurl = "https://anirudhsshirahati.github.io/"
+title = "Anirudh S Shirahati"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+enableEmoji = true
+
+
+[pagination]
+pagerSize = 6
+
+[services]
+[services.disqus]
+shortname = "Anirudh"
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[params]
+  author = "Anirudh S Shirahati"
+  info = ["Software Engineering, Data Science & Cloud Computing", "United States"]
+  description = "Anirudh's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "anirudhsshirahati@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/shirahattianiruddha"
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 2
+  url = "https://github.com/anushirahatti"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/AnirudhS50/"
+[[params.social]]
+  name = "Youtube"
+  icon = "fa-brands fa-youtube fa-2x"
+  weight = 4
+  url = "https://www.youtube.com/channel/UCUAYRlifV-9i-1WWO_bXDIg"
+[[params.social]]
+  medium = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 5
+  url = "mailto:anirudhsshirahati@gmail.com"
+
+# Menu links
+[languages.en]
+languageName = ":us:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+#[[languages.en.menu.main]]
+#name = "Projects"
+#weight = 2
+#url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 2
+url = "contact/"
