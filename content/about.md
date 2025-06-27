@@ -14,7 +14,7 @@ Currently, I work as a **Software Engineering Manager**, focused on building and
 
 ---
 
-## 🔧 What I Offer
+### 🔧 What I Offer
 
 I bring practical, hands-on experience in:
 
@@ -28,7 +28,7 @@ My technical foundation includes skills in **Python**, **SQL**, **GCP**, **Docke
 
 ---
 
-## 🎯 Career Focus
+### 🎯 Career Focus
 
 I'm currently exploring roles where I can:
 
@@ -40,7 +40,7 @@ I'm especially excited about opportunities that blend **software craftsmanship**
 
 ---
 
-## 🌱 Community & Interests
+### 🌱 Community & Interests
 
 I'm a member of the **Analytics and Big Data Society** (Charlotte, NC) and **The Honor Society of Phi Kappa Phi**, staying active in communities focused on technology and learning.
 
@@ -51,7 +51,7 @@ Outside of work, I enjoy:
 
 ---
 
-## 📬 Let’s Connect
+### 📬 Let’s Connect
 
 If you're working on something impactful in **software**, **data**, or **AI**, I'd love to hear about it.  
-Feel free to [reach out](#) — I’m open to new opportunities and collaborations that make a difference.
+Feel free to [reach out](/anirudhsshirahati/contact) — I’m open to new opportunities and collaborations that make a difference.
