@@ -28,7 +28,7 @@ Here are a few thoughtful recommendations from colleagues and leaders I’ve col
 
 ---
 
-> 💬 "Anirudh is one of the most driven candidates that I've had the pleasure to work with in my career. He is a fantastic listener, and his attention to detail is second to none. In addition to being a passionate technologist, he also inherits all of the qualities that would make him the ideal team-player. One of his best characteristics, is his willingness to ask for feedback & implement any necessary changes that will improve the overall quality of the product. I can't speak highly enough about Anir as a professional & as a person, and I would happily give him a glowing recommendation to anyone who is considering him for an opportunity!"  
+> 💬 "Anirudh is one of the most driven candidates that I've had the pleasure to work with in my career. He is a fantastic listener, and his attention to detail is second to none. In addition to being a passionate technologist, he also inherits all of the qualities that would make him the ideal team-player. One of his best characteristics, is his willingness to ask for feedback & implement any necessary changes that will improve the overall quality of the product. I can't speak highly enough about Anirudh as a professional & as a person, and I would happily give him a glowing recommendation to anyone who is considering him for an opportunity!"  
 > — *Collin Kaden, AVP Talent Acquisition (Technology), LPL Financial*
 
 ---
