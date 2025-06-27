@@ -20,7 +20,9 @@ Let’s start a conversation.
 📄 [View My Resume](https://anushirahatti.github.io/anirudhsshirahati/downloads/Anirudh_S_Shirahati_Resume.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha) • [GitHub](https://github.com/anushirahatti) • [Email](mailto:anirudhsshirahati@gmail.com)
 
+
 ---
+
 
 Thanks for visiting — I look forward to hearing from you!
 
