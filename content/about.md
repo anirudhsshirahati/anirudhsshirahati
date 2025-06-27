@@ -6,52 +6,52 @@ aliases = ["about-me", "about-anirudh", "contact"]
 author = "Anirudh S Shirahati"
 +++
 
-👋 Hi, I'm **Anirudh** — a software and data professional who enjoys solving real-world problems through clean code, thoughtful design, and continuous learning.
+👋 Hi, I'm **Anirudh** — a software and data professional who enjoys solving real-world problems through clean code, thoughtful system design, and continuous learning.
 
-Over the last **6+ years**, I've worked across **Banking**, **Finance**, **Renewable Energy**, and **Clean Tech**, contributing to teams at **JP Morgan Chase**, **ICICI Bank**, **National Commercial Bank**, and **RWE Clean Energy Services, LLC**. I’ve built and maintained production-grade systems that power business-critical tools and data workflows.
+Over the past **6+ years**, I’ve contributed to impactful technology projects across **Renewable Energy**, **Clean Tech**, **Banking**, and **Finance**, supporting leading organizations like **RWE Clean Energy Services**, **JP Morgan Chase**, **ICICI Bank**, and **National Commercial Bank**.
 
-Currently, I work as a **Software Engineering Manager**, focused on building and maintaining **Machine Learning infrastructure on Google Cloud Platform (GCP)**. While the title includes “manager,” my day-to-day involves a strong **individual contributor focus** — designing, coding, deploying, and improving technical systems.
+I currently work as a **Software Engineering Manager** at **RWE Clean Energy Services**, where I focus on building scalable, cloud-native applications and automating data-driven processes. While my title includes “manager,” my role remains **deeply technical and hands-on** — leading design, development, and deployment efforts across software and infrastructure layers.
 
 ---
 
 ### 🔧 What I Offer
 
-I bring practical, hands-on experience in:
+I bring practical experience across:
 
-- **Software Development** – Writing clean, modular code for backend systems and tools
-- **Data Engineering** – Cleaning, transforming, and preparing data for analytics and ML pipelines
-- **Dashboarding & Visualization** – Creating actionable dashboards to support business decisions
-- **Cloud Engineering** – Building and deploying systems on GCP with CI/CD pipelines
-- **Automation & CI/CD** – Streamlining workflows using modern DevOps practices
+- **Software Development** – Developing modular, production-grade systems in Python and Java
+- **Data Engineering** – Cleaning, transforming, and preparing data for downstream ML and analytics workflows
+- **Dashboarding & Visualization** – Building interactive dashboards and tools using Tableau, Looker, and custom web apps
+- **Cloud Engineering** – Architecting and deploying applications on **Azure** and **Google Cloud Platform (GCP)**
+- **Automation & CI/CD** – Implementing pipelines and deployment strategies using Docker, CircleCI, Azure DevOps, and Git
 
-My technical foundation includes skills in **Python**, **SQL**, **GCP**, **Docker**, and tools like **Looker** and **Data Studio**. I’ve also been actively expanding into **Data Science and Machine Learning**, working on internal projects and self-driven learning to strengthen that transition.
+My technical toolkit includes **Python**, **SQL**, **Java**, **Docker**, **FastAPI**, **Apache Beam**, and various GCP services. I also have experience training and deploying ML models on cloud platforms — enabling fast experimentation and real-world validation.
 
 ---
 
 ### 🎯 Career Focus
 
-I'm currently exploring roles where I can:
+I'm actively exploring **individual contributor roles** where I can:
 
-- **Leverage my software and data experience**
-- **Continue working on real-world problems with clean code and scalable solutions**
-- **Grow deeper into Data Science, Machine Learning, and AI engineering**
+- Apply my strengths in **software engineering**, **data infrastructure**, and **cloud automation**
+- Contribute to teams working on **real-world applications of data and AI**
+- Continue evolving toward **Machine Learning Engineering** and **Applied Data Science**
 
-I'm especially excited about opportunities that blend **software craftsmanship**, **data understanding**, and **ML potential**, where I can contribute right away while continuing to learn and evolve.
+I'm particularly drawn to opportunities where **code, data, and systems thinking** intersect to deliver meaningful business and social impact.
 
 ---
 
 ### 🌱 Community & Interests
 
-I'm a member of the **Analytics and Big Data Society** (Charlotte, NC) and **The Honor Society of Phi Kappa Phi**, staying active in communities focused on technology and learning.
+I'm a member of the **Analytics and Big Data Society** (Charlotte, NC) and **The Honor Society of Phi Kappa Phi**, reflecting my ongoing engagement with learning-focused and technical communities.
 
-Outside of work, I enjoy:
-- ⚽ Playing soccer, badminton, and spikeball
-- 🌍 Traveling and exploring new places
-- 🤝 Meeting people and sharing ideas
+When I’m not coding or experimenting with new tools, I enjoy:
+- ⚽ Playing soccer, badminton, and spikeball  
+- ✈️ Traveling and experiencing new cultures  
+- 🤝 Connecting with people who love solving hard problems
 
 ---
 
 ### 📬 Let’s Connect
 
-If you're working on something impactful in **software**, **data**, or **AI**, I'd love to hear about it.  
-Feel free to [reach out](/anirudhsshirahati/contact) — I’m open to new opportunities and collaborations that make a difference.
+If you're working on something exciting in **software**, **data**, or **AI**, I’d love to connect.  
+Feel free to [reach out](/anirudhsshirahati/contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha) — I'm open to new opportunities, conversations, and collaborations.

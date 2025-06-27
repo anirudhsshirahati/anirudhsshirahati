@@ -51,30 +51,30 @@ unsafe= true
 
 # Social links
 [[params.social]]
+  medium = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 1
+  url = "mailto:anirudhsshirahati@gmail.com"
+[[params.social]]
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
-  weight = 1
+  weight = 2
   url = "https://www.linkedin.com/in/shirahattianiruddha"
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
-  weight = 2
+  weight = 3
   url = "https://github.com/anushirahatti"
 [[params.social]]
-  name = "Twitter"
+  name = "X"
   icon = "fa-brands fa-x-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/AnirudhS50/"
-[[params.social]]
-  name = "Youtube"
-  icon = "fa-brands fa-youtube fa-2x"
   weight = 4
-  url = "https://www.youtube.com/channel/UCUAYRlifV-9i-1WWO_bXDIg"
-[[params.social]]
-  medium = "Email"
-  icon = "fa fa-envelope fa-2x"
-  weight = 5
-  url = "mailto:anirudhsshirahati@gmail.com"
+  url = "https://twitter.com/AnirudhS50/"
+#[[params.social]]
+#  name = "Youtube"
+#  icon = "fa-brands fa-youtube fa-2x"
+#  weight = 5
+#  url = "https://www.youtube.com/channel/UCUAYRlifV-9i-1WWO_bXDIg"
 
 # Menu links
 [languages.en]
