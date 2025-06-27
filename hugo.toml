@@ -17,6 +17,9 @@ shortname = "Anirudh"
 [markup.highlight]
 noClasses = false
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   author = "Anirudh S Shirahati"
   info = ["Software Engineering, Data Science & Cloud Computing", "United States"]
