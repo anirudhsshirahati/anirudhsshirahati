@@ -3,8 +3,24 @@ title = "Contact"
 slug = "contact"
 +++
 
-Anirudh is always open to connect and discuss new ideas and opportunities. 
+I’m always excited to connect with fellow professionals, explore new ideas, and discuss opportunities across software development, data engineering, machine learning, and beyond.
 
-Feel free to reach out on any of his [social accounts]({{% ref "/" %}}).
+Whether you have a project, a collaboration, or a role in mind, I’d love to hear from you.
 
-Are you considering growing your team? Here's Anirudh's {{< button href="https://anushirahatti.github.io/anirudhsshirahati/downloads/Anirudh S Shirahati Resume.pdf" class="btn" >}}Resume{{< /button >}}
+Feel free to reach out through any of my [social channels]({{% ref "/" %}}) or send me a direct message.
+
+### 🤝 Let’s Connect
+
+- Looking for someone with a strong foundation in software and data?
+- Interested in exploring machine learning initiatives?
+- Curious about potential collaborations or roles?
+
+Let’s start a conversation.
+
+📄 [View My Resume](https://anushirahatti.github.io/anirudhsshirahati/downloads/Anirudh_S_Shirahati_Resume.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha) • [GitHub](https://github.com/anushirahatti) • [Email](mailto:anirudhsshirahati@gmail.com)
+
+---
+
+Thanks for visiting — I look forward to hearing from you!
+
