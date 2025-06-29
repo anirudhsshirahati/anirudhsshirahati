@@ -54,4 +54,4 @@ When I’m not coding or experimenting with new tools, I enjoy:
 ### 📬 Let’s Connect
 
 If you're working on something exciting in **software**, **data**, or **AI**, I’d love to connect.  
-Feel free to [reach out](/anirudhsshirahati/contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha) — I'm open to new opportunities, conversations, and collaborations.
+Feel free to [reach out](/contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha) — I'm open to new opportunities, conversations, and collaborations.
