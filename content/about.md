@@ -6,7 +6,7 @@ aliases = ["about-me", "about-anirudh", "contact"]
 author = "Anirudh S Shirahati"
 +++
 
-👋 Hi, I'm **Anirudh** — a software and data professional who enjoys solving real-world problems through clean code, thoughtful system design, and continuous learning.
+Hi, I'm **Anirudh** — a software and data professional who enjoys solving real-world problems through clean code, thoughtful system design, and continuous learning.
 
 Over the past **6+ years**, I’ve contributed to impactful technology projects across **Renewable Energy**, **Clean Tech**, **Banking**, and **Finance**, supporting leading organizations like **RWE Clean Energy Services**, **JP Morgan Chase**, **ICICI Bank**, and **National Commercial Bank**.
 
@@ -14,7 +14,7 @@ I currently work as a **Software Engineering Manager** at **RWE Clean Energy Ser
 
 ---
 
-### 🔧 What I Offer
+### What I Offer
 
 I bring practical experience across:
 
@@ -28,7 +28,7 @@ My technical toolkit includes **Python**, **SQL**, **Java**, **Docker**, **FastA
 
 ---
 
-### 🎯 Career Focus
+### Career Focus
 
 I'm actively exploring **individual contributor roles** where I can:
 
@@ -40,18 +40,18 @@ I'm particularly drawn to opportunities where **code, data, and systems thinking
 
 ---
 
-### 🌱 Community & Interests
+### Community & Interests
 
 I'm a member of the **Analytics and Big Data Society** (Charlotte, NC) and **The Honor Society of Phi Kappa Phi**, reflecting my ongoing engagement with learning-focused and technical communities.
 
 When I’m not coding or experimenting with new tools, I enjoy:
-- ⚽ Playing soccer, badminton, and spikeball  
-- ✈️ Traveling and experiencing new cultures  
-- 🤝 Connecting with people who love solving hard problems
+- Playing soccer, badminton, and spikeball  
+- Traveling and experiencing new cultures  
+- Connecting with people who love solving hard problems
 
 ---
 
-### 📬 Let’s Connect
+### Let’s Connect
 
 If you're working on something exciting in **software**, **data**, or **AI**, I’d love to connect.  
 Feel free to [reach out](/contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha) — I'm open to new opportunities, conversations, and collaborations.
