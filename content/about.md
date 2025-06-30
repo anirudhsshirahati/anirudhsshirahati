@@ -30,7 +30,7 @@ My technical toolkit includes **Python**, **SQL**, **Java**, **Docker**, **FastA
 
 ### Career Focus
 
-I'm actively exploring **individual contributor roles** where I can:
+I'm actively exploring **senior contributor roles** where I can:
 
 - Apply my strengths in **software engineering**, **data infrastructure**, and **cloud automation**
 - Contribute to teams working on **real-world applications of data and AI**
