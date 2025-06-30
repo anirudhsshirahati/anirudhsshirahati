@@ -11,7 +11,7 @@ Whether you're building something ambitious, looking for a collaborator, or hiri
 
 ---
 
-### 🤝 Open to Collaborations & Roles
+### Open to Collaborations & Roles
 
 - Looking for someone with hands-on experience in **Python**, **cloud infrastructure**, and **data workflows**?
 - Exploring machine learning initiatives that need practical engineering support?
@@ -21,14 +21,14 @@ Let’s start the conversation.
 
 ---
 
-### 📇 Reach Out
+### Reach Out
 
 You can connect with me directly or through my social channels:
 
-- 📄 [View My Resume](https://www.anirudhsshirahati.com/downloads/Anirudh_S_Shirahati_Resume.pdf)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha)  
-- 💻 [GitHub](https://github.com/anushirahatti)  
-- ✉️ [Email Me](mailto:asshirahati@gmail.com)
+- [View My Resume](https://www.anirudhsshirahati.com/downloads/Anirudh_S_Shirahati_Resume.pdf)  
+- [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha)  
+- [GitHub](https://github.com/anushirahatti)  
+- [Email Me](mailto:asshirahati@gmail.com)
 
 ---
 
