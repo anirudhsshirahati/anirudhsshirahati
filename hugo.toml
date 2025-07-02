@@ -85,22 +85,22 @@ name = "About"
 weight = 1
 url = "about/"
 
-#[[languages.en.menu.main]]
-#name = "Projects"
-#weight = 2
-#url = "projects/"
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
 
-#[[languages.en.menu.main]]
-#name = "Resume"
-#weight = 2
-#url = "resume/"
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 3
+url = "resume/"
 
 [[languages.en.menu.main]]
 name = "Recommendations"
-weight = 2
+weight = 4
 url = "recommendations/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 3
+weight = 5
 url = "contact/"
