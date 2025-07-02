@@ -65,7 +65,7 @@ Led backend development for a web-based platform that automates financial modeli
 
 ## Bias-Driven ML SaaS Platform  
 **Tech:** Python, Docker, GCP (Cloud SQL, Firestore, AI Platform, Cloud Functions, Cloud Run)  
-University project  
+[University project](https://www.uncertaintyquantification.org/home)   
 
 Built a no-code SaaS platform that allows users to run containerized ML experiments and evaluate bias and performance in real time.
 
