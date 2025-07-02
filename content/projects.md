@@ -81,6 +81,4 @@ Built a no-code SaaS platform that allows users to run containerized ML experime
 
 - [GitHub](https://github.com/anushirahatti)  
 - [LinkedIn](https://linkedin.com/in/shirahattianiruddha)
-- [Resume](/resume) 
-
----
+- [Resume](/resume)
