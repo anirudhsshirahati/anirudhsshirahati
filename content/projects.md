@@ -9,7 +9,7 @@ A curated list of high-impact, production-focused projects demonstrating experti
 
 ## Serverless Word Splitter Pipeline  
 **Tech:** Java, Apache Beam, Google Cloud Dataflow, Cloud Storage  
-[GitHub Repo](https://github.com/anushirahatti/beam_pipeline)  
+[GitHub Repo](https://github.com/anirudhsshirahati/beam_pipeline)  
 
 Built a scalable, serverless ETL pipeline using Apache Beam on Google Cloud Dataflow to handle high-volume word processing across distributed systems.
 
@@ -23,7 +23,7 @@ Built a scalable, serverless ETL pipeline using Apache Beam on Google Cloud Data
 
 ## Housing Price Prediction – CI/CD & Cloud Deployment  
 **Tech:** Python, Scikit-learn, Docker, Cloud Build, Cloud Run, CircleCI, Locust  
-[GitHub Repo](https://github.com/anushirahatti/housing-price-prediction-app)  
+[GitHub Repo](https://github.com/anirudhsshirahati/housing-price-prediction-app)  
 
 End-to-end ML app that predicts housing prices and is automatically deployed as a serverless API using containerization and CI/CD.
 
@@ -79,6 +79,6 @@ Built a no-code SaaS platform that allows users to run containerized ML experime
 
 ## Want to See More?
 
-- [GitHub](https://github.com/anushirahatti)  
-- [LinkedIn](https://linkedin.com/in/shirahattianiruddha)
+- [GitHub](https://github.com/anirudhsshirahati)  
+- [LinkedIn](https://linkedin.com/in/anirudhsshirahati)
 - [Resume](/resume)

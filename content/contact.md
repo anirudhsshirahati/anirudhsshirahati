@@ -26,8 +26,8 @@ Let’s start the conversation.
 You can connect with me directly or through my social channels:
 
 - [View My Resume](/resume)  
-- [LinkedIn](https://www.linkedin.com/in/shirahattianiruddha)  
-- [GitHub](https://github.com/anushirahatti)  
+- [LinkedIn](https://www.linkedin.com/in/anirudhsshirahati)  
+- [GitHub](https://github.com/anirudhsshirahati)  
 - [Email Me](mailto:anirudhsshirahati@gmail.com)
 
 ---

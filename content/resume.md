@@ -7,7 +7,7 @@ slug = "resume"
 
 **[Download Resume (PDF)](https://www.anirudhsshirahati.com/downloads/Anirudh_S_Shirahati_Resume.pdf)**
 
-[**Email Me**](mailto:anirudhsshirahati@gmail.com) | [**GitHub**](https://github.com/anushirahatti) | [**LinkedIn**](https://www.linkedin.com/in/shirahattianiruddha) | **Location:** Chicago, IL
+[**Email Me**](mailto:anirudhsshirahati@gmail.com) | [**GitHub**](https://github.com/anirudhsshirahati) | [**LinkedIn**](https://www.linkedin.com/in/anirudhsshirahati) | **Location:** Chicago, IL
 
 **Languages:** Python, Java, JavaScript 
 

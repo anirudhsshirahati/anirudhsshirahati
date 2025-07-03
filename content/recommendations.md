@@ -43,4 +43,4 @@ Here are a few thoughtful recommendations from colleagues and leaders I’ve col
 
 ---
 
-*You can view more recommendations on my [LinkedIn profile](https://www.linkedin.com/in/shirahattianiruddha).*
+*You can view more recommendations on my [LinkedIn profile](https://www.linkedin.com/in/anirudhsshirahati).*
