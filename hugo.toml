@@ -59,12 +59,12 @@ unsafe= true
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://www.linkedin.com/in/shirahattianiruddha"
+  url = "https://www.linkedin.com/in/anirudhsshirahati"
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 3
-  url = "https://github.com/anushirahatti"
+  url = "https://github.com/anirudhsshirahati"
 [[params.social]]
   name = "X"
   icon = "fa-brands fa-x-twitter fa-2x"
