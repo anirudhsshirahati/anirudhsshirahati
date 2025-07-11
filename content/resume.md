@@ -3,93 +3,102 @@ title = "Resume"
 slug = "resume"
 +++
 
-# Anirudh S Shirahati
+# Anirudh S Shirahati 
 
 **[Download Resume (PDF)](https://www.anirudhsshirahati.com/downloads/Anirudh_S_Shirahati_Resume.pdf)**
 
-[**Email Me**](mailto:anirudhsshirahati@gmail.com) | [**GitHub**](https://github.com/anirudhsshirahati) | [**LinkedIn**](https://www.linkedin.com/in/anirudhsshirahati) | **Location:** Chicago, IL
-
-**Languages:** Python, Java, JavaScript 
+[**Email Me**](mailto:anushirahatti@gmail.com) | [**GitHub**](https://github.com/anirudhsshirahati) | [**LinkedIn**](https://www.linkedin.com/in/anirudhsshirahati) | **Location:** Chicago, IL
 
 ---
 
-## Professional Summary
+## SUMMARY
 
-Results-oriented Software Engineer and Technical Leader with 6+ years of experience building scalable, cloud-native systems and automating business-critical workflows across clean energy, finance, and research domains. Currently leading engineering initiatives at RWE Clean Energy, where I architect and deliver Python-based web applications and infrastructure that reduce manual effort by 70% and accelerate solar project modeling. Adept in backend development, cloud platforms (Azure, GCP), data workflows, and DevOps pipelines. Passionate about solving complex problems with simple, reliable solutions that deliver lasting impact. Open to senior engineering roles focused on automation, backend architecture, and cloud development.
+Engineering Leader and Senior Software Developer with 6+ years of experience building scalable, cloud-native web and backend systems. Proven success leading agile teams and delivering robust applications using Python, Java, and modern frameworks. Expertise in Azure, GCP, SQL, and DevOps practices. Adept at translating business needs into efficient, maintainable solutions with a hands-on, execution-driven approach.
 
 ---
 
-## Professional Experience
+## TECHNICAL SKILLS
 
-### **Software Engineering Manager – Solar PV Systems**  
+**Languages & Frameworks:** Python, Java, JavaScript, FastAPI (Python), Dash (Python), Spring Boot, Vue.js  
+**Cloud & DevOps:** Azure, GCP, Docker, Kubernetes, Azure DevOps, GitHub Actions, GitLab  
+**Databases:** SQL, MongoDB, T-SQL, BigQuery, Cloud SQL  
+**Tools & Practices:** CI/CD, REST APIs, Agile/Scrum, Tableau, Microservices Architecture  
+
+---
+
+## WORK EXPERIENCE
+
+### **Software Engineering Manager**  
 **RWE Clean Energy Services, LLC – Chicago, IL**  
 *June 2021 – Present*  
-**Tech Stack:** Python, FastAPI, Dash, Azure DevOps, SQL, Tableau, Docker, Git  
+**Tech Stack:** Python, JavaScript, Dash, FastAPI, Azure DevOps, SQL, MongoDB, Docker, Kubernetes, Azure
 
-- Designed and delivered scalable Python web applications that automated solar financial modeling, reducing manual effort by **70%**.  
-- Collaborated with engineering and finance teams to digitize workflows and improve turnaround times.  
-- Architected cost-effective infrastructure on **Microsoft Azure**, supporting CI/CD pipelines and secure deployments.  
+- Reduced manual engineering effort by 70% through Python automation of Solar PV financial modeling.  
+- Designed and deployed scalable, cost-efficient infrastructure on Microsoft Azure, improving uptime and performance.  
+- Implemented CI/CD pipelines with Azure DevOps, increasing deployment frequency and system reliability.  
+- Led Agile ceremonies and team-wide code reviews, fostering engineering excellence and collaboration.  
+- Partnered with finance and operations to align technical solutions with key business KPIs.
 
-> *Impact:* Modernized internal systems, accelerating project evaluations and improving accuracy across engineering and finance teams.
+> *Impact:* Automated critical workflows, improved system availability, and accelerated project evaluations across finance and engineering teams.
 
 ---
 
 ### **Research Assistant – Cloud ML Automation**  
 **University of North Carolina at Charlotte – Charlotte, NC**  
-*Aug 2020 – May 2021*  
-**Tech Stack:** Python, Docker, Vue.js, GCP (BigQuery, Firestore, AI Platform, Cloud Run)  
+*August 2020 – May 2021*  
+**Tech Stack:** Python, Vue.js, Docker, Cloud SQL, Cloud Build, Cloud Firestore, Cloud Functions, App Engine, Cloud Run
 
-- Built a 3-click SaaS platform for ML bias experiments, eliminating manual scripting and enabling reproducibility.  
-- Trained and deployed containerized ML models on GCP using BigQuery and Cloud Storage.  
-- Designed scalable pipelines using Cloud Run and AI Platform for iterative training and analysis.  
+- Engineered containerized ML training pipelines on Google Cloud, cutting model iteration time by 50%.  
+- Developed a SaaS platform for automated ML bias testing, enabling experiments with a 3-click workflow.  
+- Automated end-to-end ML workflows with Cloud Functions and Firestore, enhancing reliability and repeatability.
 
-> *Highlight:* Enabled fast, repeatable ML experimentation for research on fairness and bias.
+> *Impact:* Enabled fast, repeatable ML experimentation for research on fairness and bias.
 
 ---
 
-## Projects
+### **Software Developer / Java Developer**  
+**Previous Java Development Roles – Mumbai, India**  
+*February 2016 – April 2019*  
+**Tech Stack:** Java, JavaScript, Spring Boot, SQL, HTML, CSS, Git
 
-### **Serverless Word Splitter Pipeline**  
-**Java, Apache Beam, Cloud Dataflow**  
-- Developed and deployed a serverless ETL pipeline on GCP to handle large-scale text transformations.
+- Delivered web and backend solutions for banking clients including ICICI Bank, JPMorgan Chase, and National Commercial Bank using Java and Spring.  
+- Automated regulatory, payroll, and loan processing workflows, improving operational efficiency by 25–60%.  
+- Contributed to 3+ full SDLC projects in Agile teams, with focus on backend performance tuning and SQL optimization.
+
+> *Impact:* Delivered stable enterprise-grade applications that improved financial processing speed and reliability for global banking clients.
+
+---
+
+## PROJECTS
+
+### **Serverless Word Splitter Data Pipeline**  
+**Java, Apache Beam, Cloud Dataflow, Cloud Storage**  
+- Built a scalable ETL pipeline using Apache Beam and deployed on Cloud Dataflow for streaming text analysis.
+
+> *Impact:* Enabled real-time text parsing at scale for streaming workloads, supporting 100K+ daily messages with minimal latency.
 
 ### **Housing Price Prediction App**  
-**Python, Docker, Cloud Run, CircleCI**  
-- Trained a regression model, containerized it with Docker, and automated deployment with CI/CD to GCP.
+**Python, Docker, Cloud Build, Cloud Run, CircleCI, Locust**  
+- Trained and deployed ML model with CI/CD automation using Docker, Cloud Run, and CircleCI.
+
+> *Impact:* Delivered a fully automated, production-ready ML pipeline with high model accuracy and sub-second prediction latency.
 
 ### **Bank Marketing Analysis**  
 **Python, Pandas, Scikit-learn**  
 - Conducted data exploration and fairness evaluation on protected attributes to uncover bias in marketing models.
 
----
-
-## Earlier Experience
-
-### **Software Developer – Future Focus Infotech Pvt Ltd (Client: National Commercial Bank)** *(Nov 2018 – Apr 2019)*  
-- Built and maintained Spring-based loan origination modules; improved loan processing speed by **25%**.  
-- Participated in agile teams delivering backend features on time and to specification.
-
-### **Java Developer – Magna Infotech (Client: JP Morgan Chase)** *(Aug 2017 – Jan 2018)*  
-- Automated monthly compliance reporting using Java, reducing manual workload by **60%**.  
-- Coordinated with stakeholders across three development iterations to refine and deliver features.
-
-### **Junior Software Engineer – Triumph Systems (Client: ICICI Bank)** *(Feb 2016 – Jun 2017)*  
-- Developed payroll applications using Liferay and Java; enhanced logic for monthly accounting, reducing compute time by **30%**.  
-- Fixed production issues and delivered enhancements for mission-critical banking software.
-
-> *Note:* Early-career experience established strong foundations in backend systems, Java development, and enterprise delivery.
+> *Impact:* Identified and visualized patterns of demographic bias, supporting research in ethical AI and compliance analysis.
 
 ---
 
-## Education
+## EDUCATION
 
 **University of North Carolina at Charlotte – Charlotte, NC**  
-*Master of Science in Computer Science*  
-**Concentration:** Data Science  
-**Graduated:** May 2021  
+*Master of Science, Computer Science (Concentration: Data Science)*  
+**Graduated:** May 2021
 
 **University of Mumbai – Mumbai, India**  
-*Bachelor of Engineering in Computer Engineering*  
+*Bachelor of Engineering, Computer Engineering*  
 **Graduated:** May 2015
 
 ---
