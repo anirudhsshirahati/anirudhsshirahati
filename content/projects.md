@@ -1,84 +1,77 @@
 +++
 title = "Projects"
 slug = "projects"
+description = "Building impactful, scalable technology with clarity and purpose."
 +++
 
-A curated list of high-impact, production-focused projects demonstrating expertise in automation, cloud infrastructure, machine learning, and scalable backend systems — each designed to solve real-world problems and deliver measurable outcomes.
+Every project I undertake is a step toward building technology that matters — systems that solve real problems, empower teams, and create lasting impact.
+
+Below are select examples of my work at the intersection of cloud architecture, automation, machine learning, and backend engineering — each crafted with care, clarity, and scale.
 
 ---
 
 ## Serverless Word Splitter Pipeline  
-**Tech:** Java, Apache Beam, Google Cloud Dataflow, Cloud Storage  
-[GitHub Repo](https://github.com/anirudhsshirahati/beam_pipeline)  
+**Technologies:** Java, Apache Beam, Google Cloud Dataflow, Cloud Storage  
+[GitHub »](https://github.com/anirudhsshirahati/beam_pipeline)
 
-Built a scalable, serverless ETL pipeline using Apache Beam on Google Cloud Dataflow to handle high-volume word processing across distributed systems.
+Designed and implemented a scalable serverless ETL pipeline that processes vast amounts of textual data efficiently across distributed cloud systems. This project reflects my commitment to creating elegant, cloud-native solutions that simplify complexity and drive operational excellence.
 
-- Enabled dynamic autoscaling for efficient batch processing.  
-- Separated compute from orchestration to optimize performance.  
-- Employed Google Cloud-native tools for seamless deployment.
-
-> **Why it matters:** Showcases real-world distributed data engineering and cloud-native architecture using Apache Beam and GCP.
+- Engineered dynamic autoscaling for optimized batch processing  
+- Decoupled compute and orchestration for performance and reliability  
+- Leveraged Google Cloud tools for seamless, maintainable deployment
 
 ---
 
 ## Housing Price Prediction – CI/CD & Cloud Deployment  
-**Tech:** Python, Scikit-learn, Docker, Cloud Build, Cloud Run, CircleCI, Locust  
-[GitHub Repo](https://github.com/anirudhsshirahati/housing-price-prediction-app)  
+**Technologies:** Python, Scikit-learn, Docker, Cloud Build, Cloud Run, CircleCI, Locust  
+[GitHub »](https://github.com/anirudhsshirahati/housing-price-prediction-app)
 
-End-to-end ML app that predicts housing prices and is automatically deployed as a serverless API using containerization and CI/CD.
+Developed a full machine learning lifecycle pipeline — from data modeling to continuous deployment — that delivers real-time housing price predictions via a scalable serverless API. This work embodies my passion for bridging data science and software engineering to bring meaningful insights into production.
 
-- Trained and validated a regression model using scikit-learn.  
-- Dockerized the app and automated testing with CircleCI.  
-- Deployed seamlessly to Cloud Run and tested with Locust under load.
-
-> **Why it matters:** Demonstrates full ML lifecycle from training to deployment with modern DevOps and MLOps practices.
+- Trained and validated robust regression models  
+- Automated containerized deployments and testing workflows  
+- Stress-tested APIs under load for resilience and reliability
 
 ---
 
 ## ML Bias Evaluation Tool (Research)  
-**Tech:** Python, Pandas, Scikit-learn, Streamlit  
-Private research repo  
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit  
+*(Private research repository)*
 
-Developed an interactive tool to detect and visualize algorithmic bias in ML datasets, used as part of academic research on fairness and accountability.
+Created an interactive tool that uncovers and visualizes biases in machine learning datasets, fostering responsible AI practices. This research project resonates with my belief that technology must be ethical and accountable to truly serve people and society.
 
-- Measured bias using metrics like disparate impact and equal opportunity.  
-- Visualized model fairness tradeoffs to inform ethical model design.  
-- Automated bias detection workflows for consistent reproducibility.
-
-> **Why it matters:** Addresses responsible AI development — increasingly essential for hiring in regulated or ethical tech domains.
+- Quantified fairness metrics like disparate impact and equal opportunity  
+- Visualized complex trade-offs to support ethical decision-making  
+- Automated detection to promote transparency and reproducibility
 
 ---
 
 ## Solar Financial Modeling Automation Platform  
-**Tech:** Python, FastAPI, Azure DevOps, PVLib, Dash, Docker  
-Internal enterprise project 
+**Technologies:** Python, FastAPI, Azure DevOps, PVLib, Dash, Docker  
+*(Internal enterprise project)*
 
-Led backend development for a web-based platform that automates financial modeling of solar PV systems, replacing manual spreadsheets with cloud-native solutions.
+Led backend development of a cloud-based platform that automates financial modeling for solar energy projects, replacing manual processes with scalable, secure software. This initiative reflects my dedication to applying technology for sustainability and operational impact.
 
-- Reduced engineering workload by over **70%** through automation.  
-- Designed and deployed secure FastAPI services on Azure.  
-- Used PVLib and Dash to build custom modeling and visualization tools.
-
-> **Why it matters:** Shows ability to solve business-critical problems with automation, backend leadership, and domain-specific expertise (clean energy).
+- Achieved over 70% reduction in manual engineering effort through automation  
+- Built secure, modular APIs supporting dynamic financial calculations  
+- Developed custom visualization tools for clear, actionable insights
 
 ---
 
 ## Bias-Driven ML SaaS Platform  
-**Tech:** Python, Docker, GCP (Cloud SQL, Firestore, AI Platform, Cloud Functions, Cloud Run)  
-[University project](https://www.uncertaintyquantification.org/home)   
+**Technologies:** Python, Docker, Google Cloud SQL, Firestore, AI Platform, Cloud Functions, Cloud Run  
+[Research project »](https://www.uncertaintyquantification.org/home)
 
-Built a no-code SaaS platform that allows users to run containerized ML experiments and evaluate bias and performance in real time.
+Built a SaaS platform empowering users to run containerized machine learning experiments and assess bias in real time. This project highlights my drive to democratize advanced ML tools and embed fairness into technology workflows.
 
-- Automated ML model training and evaluation in 3 clicks.  
-- Leveraged GCP Cloud Functions for orchestration and Firestore for state management.  
-- Enabled reproducible experiments across protected features.
-
-> **Why it matters:** Combines SaaS development, ML automation, and GCP experience — highly aligned with backend/data/cloud roles in 2025.
+- Enabled automated training and evaluation in three clicks  
+- Managed orchestration and state with cloud-native services  
+- Supported reproducibility and accountability across protected features
 
 ---
 
-## Want to See More?
+### Explore More
 
-- [GitHub](https://github.com/anirudhsshirahati)  
-- [LinkedIn](https://linkedin.com/in/anirudhsshirahati)
-- [Resume](/resume)
+Curious to see the full range of my work? Feel free to visit my [GitHub](https://github.com/anirudhsshirahati) or connect with me on [LinkedIn](https://linkedin.com/in/anirudhsshirahati).  
+
+If you’re passionate about building purposeful technology or have an opportunity that aligns with these values, I’d love to [hear from you](/contact).
