@@ -5,28 +5,32 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 enableEmoji = true
 
-
 [pagination]
 pagerSize = 6
 
 [services]
-[services.disqus]
-shortname = "Anirudh"
+  [services.disqus]
+  shortname = "Anirudh"
 
 [markup]
-[markup.highlight]
-noClasses = false
+  [markup.highlight]
+  noClasses = false
 
-[markup.goldmark.renderer]
-unsafe= true
+  [markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   author = "Anirudh S Shirahati"
-  info = ["Software Engineering, Data Science & Cloud Computing", "United States"]
-  description = "Anirudh's personal website"
-  keywords = "blog,developer,personal"
+  info = [
+    "Engineering Leader • Cloud Architect • Purpose-Driven Technologist",
+    "Python | Java | Azure | GCP | DevOps | Team Leadership",
+    "Open to Sr. Software Developer, Architect, Engineering Leadership & ML Roles",
+    "United States"
+  ]
+  description = "I design and deliver cloud-native systems with clarity, scale, and purpose — open to senior software developer, architect, engineering leadership, and machine learning infrastructure roles."
+  keywords = "software engineer, cloud computing, backend developer, python, java, devops, engineering leader, senior software developer, software architect, machine learning infrastructure, cloud architect, leadership"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "anirudhsshirahati@gmail.com"
+
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -35,13 +39,8 @@ unsafe= true
   since = 2025
 
   enableTwemoji = true
-
   colorScheme = "auto"
   hidecolorschemetoggle = false
-
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
@@ -55,26 +54,24 @@ unsafe= true
   icon = "fa fa-envelope fa-2x"
   weight = 1
   url = "mailto:anirudhsshirahati@gmail.com"
+
 [[params.social]]
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/anirudhsshirahati"
+
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 3
   url = "https://github.com/anirudhsshirahati"
+
 [[params.social]]
   name = "X"
   icon = "fa-brands fa-x-twitter fa-2x"
   weight = 4
   url = "https://twitter.com/AnirudhS50/"
-#[[params.social]]
-#  name = "Youtube"
-#  icon = "fa-brands fa-youtube fa-2x"
-#  weight = 5
-#  url = "https://www.youtube.com/channel/UCUAYRlifV-9i-1WWO_bXDIg"
 
 # Menu links
 [languages.en]

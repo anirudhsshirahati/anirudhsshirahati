@@ -43,4 +43,6 @@ Here are a few thoughtful recommendations from colleagues and leaders I’ve col
 
 ---
 
+*I’m always excited to connect with like-minded professionals and explore opportunities to collaborate. Feel free to [reach out](/contact)!*
+
 *You can view more recommendations on my [LinkedIn profile](https://www.linkedin.com/in/anirudhsshirahati).*
