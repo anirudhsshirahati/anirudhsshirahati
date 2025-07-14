@@ -19,7 +19,7 @@ Engineering Leader and Senior Software Developer with 6+ years driving scalable,
 
 ## TECHNICAL SKILLS
 
-**Languages & Frameworks:** Python, Java, JavaScript, FastAPI, Dash, Spring Boot, Vue.js  
+**Languages & Frameworks:** Python, Java, JavaScript, TypeScript, FastAPI, Dash, Spring Boot, Vue.js  
 **Cloud Platforms:** Azure, Google Cloud Platform (GCP)  
 **DevOps & Containerization:** Docker, Kubernetes, Azure DevOps, GitHub Actions, GitLab  
 **Databases:** SQL, MongoDB, BigQuery, Cloud SQL  
