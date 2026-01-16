@@ -1,6 +1,6 @@
 const body = document.body;
 const darkModeToggle = document.getElementById('dark-mode-toggle');
-const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: light)');
+const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
 
 // Check if user preference is set, if not check value of body class for light or dark else it means that colorscheme = auto
 if (localStorage.getItem("colorscheme")) {
