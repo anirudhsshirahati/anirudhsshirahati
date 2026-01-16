@@ -110,11 +110,3 @@ Senior Software Engineer with 6+ years of experience building production-grade b
 ## Contact Me
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anirudhsshirahati) or [Email Me](mailto:shirahatianirudhs@gmail.com) directly. Let's connect!
-
----
-
-## Social Links
-
-- [LinkedIn](https://www.linkedin.com/in/anirudhsshirahati)
-- [GitHub](https://github.com/anirudhsshirahati)
-- [Portfolio](https://anirudhsshirahati.com)

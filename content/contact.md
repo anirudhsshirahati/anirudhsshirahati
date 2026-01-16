@@ -11,10 +11,10 @@ I'm always open to connecting with like-minded professionals, collaborators, and
 
 You can contact me through these channels:
 
-- [**Email Me**](mailto:shirahatianirudhs@gmail.com)  
-- [**LinkedIn**](https://www.linkedin.com/in/anirudhsshirahati)  
-- [**GitHub**](https://github.com/anirudhsshirahati)
-- [**View My Resume**](/resume)
+- [*Email Me*](mailto:shirahatianirudhs@gmail.com)  
+- [*LinkedIn*](https://www.linkedin.com/in/anirudhsshirahati)  
+- [*GitHub*](https://github.com/anirudhsshirahati)
+- [*Download Resume*](https://www.anirudhsshirahati.com/downloads/Anirudh_S_Shirahati_Resume.pdf)
 
 ---
 
