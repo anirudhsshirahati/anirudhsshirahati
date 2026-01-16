@@ -38,7 +38,7 @@ pagerSize = 6
   since = 2026
 
   enableTwemoji = true
-  colorScheme = "light"
+  colorScheme = "auto"
   hidecolorschemetoggle = false
 
 [taxonomies]
