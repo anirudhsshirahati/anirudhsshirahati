@@ -22,13 +22,12 @@ pagerSize = 6
 [params]
   author = "Anirudh S Shirahati"
   info = [
-    "Engineering Leader • Cloud Architect • Purpose-Driven Technologist",
-    "Python | Java | Azure | GCP | DevOps | Team Leadership",
-    "Open to Sr. Software Developer, Architect, Engineering Leadership & ML Roles",
+    "Senior Software Engineer building Applied AI & LLM-powered backend systems",
+	"Python | FastAPI | LLMs | RAG | Docker | GCP | Azure",
     "United States"
   ]
-  description = "I design and deliver cloud-native systems with clarity, scale, and purpose — open to senior software developer, architect, engineering leadership, and machine learning infrastructure roles."
-  keywords = "software engineer, cloud computing, backend developer, python, java, devops, engineering leader, senior software developer, software architect, machine learning infrastructure, cloud architect, leadership"
+  description = "Senior Software Engineer specializing in applied AI and LLM-powered backend systems. Expertise in Python, FastAPI, RAG architectures, AI evaluation, and cloud-native deployment on GCP and Azure."
+  keywords = "Senior Software Engineer, AI Engineer, Applied AI, LLM Systems, Large Language Models, Retrieval-Augmented Generation, RAG, AI Backend Engineer, Python, FastAPI, OpenAI API, Hugging Face, Prompt Engineering, LLM Evaluation, AI Model Evaluation, Bias Detection, Embeddings, Vector Search, REST APIs, Cloud-Native Applications, Docker, Containerized Services, Google Cloud Platform, GCP Cloud Run, BigQuery, Azure, CI/CD Pipelines"
   avatarurl = "images/avatar.jpg"
 
 
@@ -36,7 +35,7 @@ pagerSize = 6
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2025
+  since = 2026
 
   enableTwemoji = true
   colorScheme = "auto"
@@ -53,7 +52,7 @@ pagerSize = 6
   medium = "Email"
   icon = "fa fa-envelope fa-2x"
   weight = 1
-  url = "mailto:anirudhsshirahati@gmail.com"
+  url = "mailto:shirahatianirudhs@gmail.com"
 
 [[params.social]]
   name = "LinkedIn"
