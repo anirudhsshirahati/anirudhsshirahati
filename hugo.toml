@@ -40,7 +40,7 @@ pagerSize = 6
   enableTwemoji = true
   
   colorScheme = "light"
-  hidecolorschemetoggle = true
+  hidecolorschemetoggle = false
 
 [taxonomies]
   category = "categories"
