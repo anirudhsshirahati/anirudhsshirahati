@@ -49,4 +49,4 @@ I also love collaborating with like-minded engineers and AI researchers. If you 
 
 ## Let’s Connect
 
-Feel free to explore my **[Projects](/projects)** to see how I’ve applied AI in real-world scenarios. If you're working on AI-related projects or have an exciting collaboration in mind, don’t hesitate to reach out to me through my **[Contact](/contact)** page. Let’s connect and create something impactful together!
+Feel free to explore my **[Projects](/projects)** to see how I’ve applied AI in real-world scenarios. If you're working on AI-related projects or have an exciting collaboration in mind, don’t hesitate to reach out to me through my **[Contact me](/contact)** page. Let’s connect and create something impactful together!
