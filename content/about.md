@@ -1,69 +1,52 @@
 +++
 title = "About"
 description = "Rooted in purpose. Driven by clarity. Designed to expand."
-date = "2025-06-25"
+date = "2026-01-15"
 aliases = ["about-me", "about-anirudh", "contact"]
 author = "Anirudh S Shirahati"
 +++
 
-Hi — I’m **Anirudh**, a systems thinker, builder, and engineering leader.
-
-I design and deliver **scalable, cloud-native solutions** that move organizations forward — with clarity, purpose, and precision. Over the past 6+ years, I’ve worked across **clean tech, renewable energy, and global finance**, partnering with organizations like **RWE Clean Energy**, **JP Morgan Chase**, and **ICICI Bank** to turn complexity into working systems.
-
-I work hands-on at the intersection of **software engineering**, **cloud infrastructure**, and **data-driven automation** — and I lead from that place. I build not just applications, but clarity and capability inside teams.
+Hi, I'm Anirudh — a Senior Software Engineer with over 6 years of experience in building impactful backend and AI-powered systems. My current focus is on developing applied AI and LLM-driven solutions using Python, FastAPI, and cloud technologies like GCP and Azure. I am passionate about delivering scalable, production-grade solutions that solve real-world business problems.
 
 ---
 
-### What I Do Best
+## My Journey
 
-I specialize in delivering:
+I started my journey in Computer Engineering with a Bachelor's degree from the University of Mumbai, followed by an M.S. in Computer Science (Data Science) from the University of North Carolina at Charlotte. Over the past 6+ years, I’ve had the privilege of working on a wide range of projects, from developing backend systems to building scalable AI applications.
 
-- **Modular, production-grade backend systems** in Python and Java  
-- **End-to-end cloud architecture** on Azure and GCP  
-- **Automation pipelines** with Docker, CI/CD tools, and DevOps practices  
-- **Data infrastructure and visualization**, from ETL to dashboards  
-- **ML-enabling systems**, supporting fast experimentation and real-world deployment
-
-My toolkit includes technologies like **FastAPI**, **Apache Beam**, **SQL**, **Kubernetes**, and more — always chosen with purpose and scaled with care.
+My work spans diverse industries and technologies, including financial services, renewable energy, and AI systems. Most recently, I've been focusing on applied AI, working extensively with LLMs (Large Language Models) and building scalable backend architectures that integrate AI-driven workflows.
 
 ---
 
-### What I’m Exploring
+## Passion for AI & Engineering
 
-I’m actively aligned with opportunities where I can:
+AI has the potential to revolutionize industries, automate complex workflows, and solve significant real-world problems. What excites me most is the ability to combine my software engineering skills with AI technologies to create scalable, high-impact solutions. From designing production-grade AI systems to optimizing machine learning pipelines, I am always exploring new ways to integrate AI into real-world applications.
 
-- Contribute as a **senior engineer or architect** on high-impact systems  
-- Evolve toward **machine learning infrastructure** and **applied data science**  
-- Join a team that values **clarity, purpose, and well-built software**
-
-I don’t chase trends — I build with purpose.
+I'm particularly passionate about the challenge of working with Large Language Models (LLMs) and designing systems that are not only powerful but also reliable and fair. I’m committed to building AI systems that are ethical and efficient while delivering measurable business value.
 
 ---
 
-### How I Operate
+## Key Skills & Expertise
 
-What drives me isn’t just code — it’s clarity. I approach systems and teams the same way:
+I have a strong background in backend development and cloud-native systems, and I'm currently focused on designing and deploying AI-powered applications. My expertise includes the following technologies:
 
-- Understand deeply  
-- Design thoughtfully  
-- Build intentionally  
-- Expand continuously
-
-I’m fueled by curiosity, guided by discipline, and anchored in a vision that blends **technical mastery with human impact**.
-
----
-
-### Outside the Console
-
-I stay grounded through community, movement, and exploration.
-
-- Member of **The Honor Society of Phi Kappa Phi** and the **Analytics & Big Data Society**  
-- Enjoy playing soccer, badminton, and spikeball  
-- Constant learner, occasional traveler, and deep connector  
+### Core Skills:
+- **Programming**: Python, FastAPI, Java, JavaScript, Flask, Dash
+- **AI/ML**: LLMs, OpenAI API, Hugging Face, Prompt Engineering, RAG Architectures, ML Pipelines
+- **Cloud**: GCP (Cloud Run, Dataflow, BigQuery), Azure
+- **Databases**: SQL, MongoDB, BigQuery
+- **DevOps**: Docker, CI/CD (Azure DevOps, GitHub Actions)
 
 ---
 
-### Let’s Talk
+## What I Offer
 
-If you're building something meaningful in **software, cloud, or data**, I’d love to connect.  
-You can [reach out](/contact) or find me on [LinkedIn](https://www.linkedin.com/in/anirudhsshirahati) — I’m always open to aligned opportunities, thoughtful conversations, and purposeful collaboration.
+I’m always open to new opportunities, whether it’s collaborating on innovative AI projects or helping businesses build scalable backend systems. If you're looking for someone to help you integrate LLMs, design machine learning pipelines, or optimize your AI workflows, let's connect.
+
+I also love collaborating with like-minded engineers and AI researchers. If you have exciting AI initiatives or projects, I'd be happy to discuss how we can drive innovation together.
+
+---
+
+## Let’s Connect
+
+Feel free to explore my **[Projects](/projects)** to see how I’ve applied AI in real-world scenarios. If you're working on AI-related projects or have an exciting collaboration in mind, don’t hesitate to reach out to me through my **[Contact](/contact)** page. Let’s connect and create something impactful together!
