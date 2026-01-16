@@ -22,7 +22,7 @@ pagerSize = 6
 [params]
   author = "Anirudh S Shirahati"
   info = [
-    "Senior Software Engineer building Applied AI & LLM-powered backend systems",
+    "Sr. Software Engineer building Applied AI & LLM-powered backend systems",
 	"Python | FastAPI | LLMs | RAG | Docker | GCP | Azure",
     "United States"
   ]

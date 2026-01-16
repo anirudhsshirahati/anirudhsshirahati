@@ -69,4 +69,4 @@ Each project is designed to highlight my expertise in **Python**, **FastAPI**, *
 
 Each of these projects demonstrates my ability to solve complex problems through **AI systems**, **cloud-native architectures**, and **automated workflows**. They reflect my focus on delivering **scalable** and **reliable systems** that can adapt to real-world business challenges. Whether it's working with **LLMs**, optimizing machine learning workflows, or automating data pipelines, my goal is to create solutions that drive value.
 
-Feel free to explore the links to the code to see these projects. If you have any questions or want to collaborate on similar projects, reach out via my **[Contact](/contact)** page.
+Feel free to explore the links to the code to see these projects. If you have any questions or want to collaborate on similar projects, reach out via my **[Contact me](/contact)** page.
