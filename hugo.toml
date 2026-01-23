@@ -1,5 +1,5 @@
 baseurl = "https://www.anirudhsshirahati.com/"
-title = "Anirudh S Shirahati | Senior Software Engineer & Applied AI Engineer"
+title = "Anirudh S Shirahati"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,28 +15,30 @@ pagerSize = 6
 [markup]
   [markup.highlight]
   noClasses = false
+
   [markup.goldmark.renderer]
   unsafe = true
 
 [params]
   author = "Anirudh S Shirahati"
   info = [
-    "Sr. Software Engineer | Applied AI & LLM-powered Backend Systems",
-    "Python | FastAPI | LLMs | RAG | Docker | GCP | Azure",
-    "Available for Full-time, Contract, Freelance roles (U.S.)"
+    "Sr. Software Engineer building Applied AI & LLM-powered backend systems",
+	"Python | FastAPI | LLMs | RAG | Docker | GCP | Azure",
+    "United States"
   ]
-  
-  description = "Senior Software Engineer specializing in applied AI and LLM-powered backend systems. Expertise in Python, FastAPI, RAG, AI evaluation, and cloud-native deployment on GCP and Azure. Open for collaboration, freelance, and full-time opportunities."
-  
-  keywords = "Senior Software Engineer, Applied AI, AI Engineer, LLM Systems, Large Language Models, RAG, Python, FastAPI, OpenAI API, Hugging Face, Prompt Engineering, AI Backend Engineer, Cloud Deployment, Docker, GCP, Azure, Freelance, Contract, Full-time, AI Collaboration"
-
+  description = "Senior Software Engineer specializing in applied AI and LLM-powered backend systems. Expertise in Python, FastAPI, RAG architectures, AI evaluation, and cloud-native deployment on GCP and Azure."
+  keywords = "Senior Software Engineer, AI Engineer, Applied AI, LLM Systems, Large Language Models, Retrieval-Augmented Generation, RAG, AI Backend Engineer, Python, FastAPI, OpenAI API, Hugging Face, Prompt Engineering, LLM Evaluation, AI Model Evaluation, Bias Detection, Embeddings, Vector Search, REST APIs, Cloud-Native Applications, Docker, Containerized Services, Google Cloud Platform, GCP Cloud Run, BigQuery, Azure, CI/CD Pipelines"
   avatarurl = "images/avatar.jpg"
+
+
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
   since = 2026
+
   enableTwemoji = true
+  
   colorScheme = "light"
   hidecolorschemetoggle = true
 
@@ -46,6 +48,7 @@ pagerSize = 6
   tag = "tags"
   author = "authors"
 
+# Social links
 [[params.social]]
   medium = "Email"
   icon = "fa fa-envelope fa-2x"
@@ -69,6 +72,10 @@ pagerSize = 6
   icon = "fa-brands fa-x-twitter fa-2x"
   weight = 4
   url = "https://twitter.com/AnirudhS50/"
+
+# Menu links
+[languages.en]
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "About"
