@@ -5,6 +5,16 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 enableEmoji = false
 
+# Exclude the theme's bundled demo content from the build
+ignoreFiles = ['themes/hugo-coder/content']
+
+# Disable taxonomy, term, and RSS pages (no blog on this site)
+disableKinds = ["taxonomy", "term", "RSS"]
+
+# Keep series defined so theme templates don't crash if any demo content slips through
+[taxonomies]
+  series = "series"
+
 [markup]
   [markup.highlight]
   noClasses = false
