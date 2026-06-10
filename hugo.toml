@@ -22,8 +22,8 @@ pagerSize = 6
 [params]
   author = "Anirudh S Shirahati"
   info = [
-    "Sr. Software Engineer | Analytics Applications | Backend Systems | Data-Driven Solutions",
-    "Python | FastAPI | Dash | SQL | Docker | Azure | GCP",
+    "Sr. Software Engineer",
+    "Python · FastAPI · Dash · SQL · Docker · Azure · GCP",
     "Chicago, IL"
   ]
   description = "Senior Software Engineer with 6+ years of experience building analytics applications, backend systems, REST APIs, and data-driven software solutions using Python. Experienced in FastAPI, Dash, SQL, cloud-native deployment on Azure and GCP, and AI-enabled application development."

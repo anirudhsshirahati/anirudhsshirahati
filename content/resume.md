@@ -15,45 +15,45 @@ Senior Software Engineer with 6+ years of experience building analytics applicat
 
 ## Technical Skills
 
-**Languages** — Python · Java · JavaScript
+**Languages**: Python · Java · JavaScript
 
-**Backend and APIs** — FastAPI · Flask · REST APIs · Backend Services
+**Backend and APIs**: FastAPI · Flask · REST APIs · Backend Services
 
-**Analytics and Data** — Dash · SQL · Data Analysis · Data Visualization · Pandas · NumPy
+**Analytics and Data**: Dash · SQL · Data Analysis · Data Visualization · Pandas · NumPy
 
-**Databases** — MySQL · MongoDB
+**Databases**: MySQL · MongoDB
 
-**Cloud and DevOps** — Azure · GCP · Docker · CI/CD · Azure DevOps · GitHub Actions
+**Cloud and DevOps**: Azure · GCP · Docker · CI/CD · Azure DevOps · GitHub Actions
 
-**Frontend** — HTML · CSS · Vue.js
+**Frontend**: HTML · CSS · Vue.js
 
-**AI and Automation** — LLM API Integration · Workflow Automation · AI Enabled Applications
+**AI and Automation**: LLM API Integration · Workflow Automation · AI Enabled Applications
 
 ## Work Experience
 
 ### Senior Software Engineer
-**Independent Software Engineering** · Chicago, IL · June 2025 – Present
+**Independent Software Engineering** · Chicago, IL · June 2025 to Present
 
 Designing and delivering full-stack applications and backend systems using Python, FastAPI, and cloud-native architectures. Building business applications that support document workflows, operational processes, and analytics dashboards. Developing scalable backend services and REST APIs, integrating AI-enabled features via LLM APIs for conversational interfaces and document processing, and deploying containerized applications using Docker across cloud environments.
 
 ### Senior Software Engineer (Python)
-**RWE Clean Energy Services, LLC** · Chicago, IL · June 2021 – June 2025
+**RWE Clean Energy Services, LLC** · Chicago, IL · June 2021 to June 2025
 
 Developed analytics applications, backend systems, and reporting solutions supporting operational, engineering, and financial business workflows. Built Python-based backend services and REST APIs for enterprise applications and internal platforms. Delivered Python Dash applications providing interactive data visualization, reporting, monitoring, and operational insights for business stakeholders. Automated financial and operational modeling workflows, reducing manual effort by approximately 70%. Optimized SQL queries and database interactions to improve performance and responsiveness. Deployed scalable applications using FastAPI, Docker, and Azure cloud infrastructure, and implemented CI/CD pipelines using Azure DevOps and GitHub Actions.
 
 ### Cloud Software Engineer
-**University of North Carolina at Charlotte** · Charlotte, NC · August 2020 – May 2021
+**University of North Carolina at Charlotte** · Charlotte, NC · August 2020 to May 2021
 
 Developed and deployed containerized Python applications on Google Cloud Platform, including Cloud Run, BigQuery, and Cloud Storage. Built backend services supporting machine learning experimentation and research workflows. Developed APIs for data processing, model execution, and workflow orchestration. Automated machine learning environment setup and experimentation processes, reducing manual configuration effort and improving development efficiency.
 
 ### Software Developer / Java Developer
-**Multiple Clients** · Mumbai, India · February 2016 – April 2019
+**Multiple Clients** · Mumbai, India · February 2016 to April 2019
 
 Developed backend modules and business functionality for enterprise banking and financial services applications. Built Java-based web applications using Spring Framework, designed backend services for customer-facing and internal operations, and improved application performance by up to 30% through code optimization. Participated in Agile software development teams delivering production software for enterprise clients including JPMorganChase, The National Commercial Bank, and ICICI Bank.
 
 ## Projects
 
-**PreLegal — AI Powered Legal Document Drafting** · Python · FastAPI · Docker · Claude · CI/CD · Git
+**PreLegal: AI Powered Legal Document Drafting** · Python · FastAPI · Docker · Claude · CI/CD · Git
 
 Built and deployed a full-stack SaaS platform that uses conversational AI to draft professional legal agreements in minutes. Supports 11 document types based on Common Paper open standards. [GitHub](https://github.com/anirudhsshirahati/prelegal) · [Live App](https://prelegal-t4hf.onrender.com)
 
