@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* ─────────────────────────────
-   Design tokens
-   bg:      #f9f8f5  warm off-white
-   text:    #1c1917  warm near-black
-   muted:   #78716c  stone-500
-   subtle:  #44403c  stone-700
-   border:  #e7e5e0  stone-200
-   accent:  #1d4ed8  blue-700
-   hover:   #1e3a8a  blue-900
+   Design tokens (White / Cream / Green palette)
+   bg:          #f8fdf9  near-white, faintest green tint
+   bg-mint:     #f0faf5  light mint (blockquotes, highlights)
+   text:        #1a2b22  near-black with warm green undertone
+   subtle:      #3a5c49  medium-dark green
+   muted:       #4d7260  muted sage green (secondary text)
+   border:      #c3e8d1  soft green border
+   accent:      #1a7a4a  primary green (links, focus)
+   accent-dark: #0f5c36  dark green (hover)
+   heading:     #0c2e1e  deep forest green
 ───────────────────────────── */
 
 /* ─────────────────────────────
@@ -17,8 +19,8 @@
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background-color: #f9f8f5;
-  color: #1c1917;
+  background-color: #f8fdf9;
+  color: #1a2b22;
   font-size: 1.7em;
   line-height: 1.85em;
   letter-spacing: -0.005em;
@@ -26,12 +28,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
-  color: #0c0a09;
+  color: #0c2e1e;
   letter-spacing: -0.02em;
 }
 
 a {
-  color: #1d4ed8;
+  color: #1a7a4a;
   font-weight: 500;
   text-decoration: none;
   transition: color 0.2s ease;
@@ -39,7 +41,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #1e3a8a;
+  color: #0f5c36;
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
@@ -47,13 +49,13 @@ a:hover {
 
 hr {
   border: none;
-  border-top: 1px solid #e7e5e0;
+  border-top: 1px solid #c3e8d1;
   margin: 4rem 0;
 }
 
 blockquote {
-  border-left: 3px solid #1d4ed8;
-  background: #f5f8ff;
+  border-left: 3px solid #2d9e63;
+  background: #f0faf5;
   padding: 2rem 2.4rem;
   border-radius: 0 8px 8px 0;
   margin: 3.2rem 0;
@@ -61,7 +63,7 @@ blockquote {
 
 blockquote p {
   font-style: italic;
-  color: #374151;
+  color: #243b2f;
   margin: 0;
   line-height: 2em;
 }
@@ -71,14 +73,14 @@ blockquote p {
 ───────────────────────────── */
 
 .navigation {
-  background-color: #f9f8f5;
-  border-bottom: 1px solid #e7e5e0;
+  background-color: #ffffff;
+  border-bottom: 1px solid #c3e8d1;
   height: 6.4rem;
 }
 
 .navigation a,
 .navigation span {
-  color: #44403c;
+  color: #3a5c49;
   font-size: 1.5rem;
   font-weight: 500;
   letter-spacing: 0;
@@ -89,12 +91,12 @@ blockquote p {
   font-weight: 700;
   letter-spacing: -0.02em;
   text-transform: none;
-  color: #0c0a09;
+  color: #0c2e1e;
 }
 
 .navigation a:hover,
 .navigation a:focus {
-  color: #1d4ed8;
+  color: #1a7a4a;
   text-decoration: none;
 }
 
@@ -118,7 +120,7 @@ blockquote p {
 .about h2 {
   font-size: 1.65rem;
   font-weight: 400;
-  color: #78716c;
+  color: #4d7260;
   letter-spacing: 0;
   line-height: 3rem;
   margin-top: 0;
@@ -131,13 +133,13 @@ blockquote p {
 }
 
 .about ul li a {
-  color: #44403c;
+  color: #3a5c49;
   font-size: 1.6rem;
 }
 
 .about ul li a:hover,
 .about ul li a:focus {
-  color: #1d4ed8;
+  color: #1a7a4a;
 }
 
 .avatar img {
@@ -150,7 +152,7 @@ blockquote p {
 ───────────────────────────── */
 
 .content {
-  background-color: #f9f8f5;
+  background-color: #f8fdf9;
 }
 
 .content header h1 {
@@ -164,7 +166,7 @@ blockquote p {
   hyphens: none;
   -ms-hyphens: none;
   -webkit-hyphens: none;
-  color: #292524;
+  color: #243b2f;
   line-height: 1.95em;
 }
 
@@ -175,7 +177,7 @@ blockquote p {
   margin-top: 5.6rem;
   margin-bottom: 1.8rem;
   padding-bottom: 0.8rem;
-  border-bottom: 2px solid #e7e5e0;
+  border-bottom: 2px solid #c3e8d1;
 }
 
 .content article h3 {
@@ -187,16 +189,16 @@ blockquote p {
 }
 
 .content article strong {
-  color: #0c0a09;
+  color: #0c2e1e;
   font-weight: 600;
 }
 
 .content article em {
-  color: #44403c;
+  color: #3a5c49;
 }
 
 .content article a {
-  color: #1d4ed8;
+  color: #1a7a4a;
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 3px;
@@ -204,7 +206,7 @@ blockquote p {
 }
 
 .content article a:hover {
-  color: #1e3a8a;
+  color: #0f5c36;
   text-decoration-thickness: 2px;
 }
 
@@ -213,18 +215,18 @@ blockquote p {
 ───────────────────────────── */
 
 .footer {
-  border-top: 1px solid #e7e5e0;
+  border-top: 1px solid #c3e8d1;
   padding-top: 1.6rem;
-  color: #78716c;
+  color: #4d7260;
   font-size: 1.45rem;
 }
 
 .footer a {
-  color: #78716c;
+  color: #4d7260;
   font-weight: 400;
 }
 
 .footer a:hover {
-  color: #1d4ed8;
+  color: #1a7a4a;
   text-decoration: none;
 }
