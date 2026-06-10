@@ -211,6 +211,73 @@ blockquote p {
 }
 
 /* ─────────────────────────────
+   Contact Cards
+───────────────────────────── */
+
+.contact-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.6rem;
+  margin: 2.4rem 0 4rem;
+}
+
+@media (max-width: 720px) {
+  .contact-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+.contact-card {
+  background: #f0faf5;
+  border: 1px solid #c3e8d1;
+  border-radius: 12px;
+  padding: 2.4rem;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.contact-card:hover,
+.contact-card:focus {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(26, 122, 74, 0.12);
+  border-color: #1a7a4a;
+  text-decoration: none;
+  color: inherit;
+}
+
+.contact-card .card-icon {
+  color: #1a7a4a;
+  font-size: 2.4rem;
+  margin-bottom: 1.2rem;
+  line-height: 1;
+}
+
+.contact-card .card-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #0c2e1e;
+  margin-bottom: 0.8rem;
+  letter-spacing: -0.02em;
+}
+
+.contact-card .card-desc {
+  font-size: 1.5rem;
+  color: #4d7260;
+  line-height: 1.7;
+  flex-grow: 1;
+  margin-bottom: 1.6rem;
+}
+
+.contact-card .card-action {
+  font-size: 1.45rem;
+  font-weight: 600;
+  color: #1a7a4a;
+}
+
+/* ─────────────────────────────
    Calendly Inline Widget
 ───────────────────────────── */
 
