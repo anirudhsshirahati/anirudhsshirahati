@@ -42,6 +42,8 @@ pagerSize = 6
   colorScheme = "light"
   hidecolorschemetoggle = true
 
+  customSCSS = ["scss/custom.scss"]
+
 [taxonomies]
   category = "categories"
   series = "series"
