@@ -5,13 +5,6 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 enableEmoji = false
 
-[pagination]
-pagerSize = 6
-
-[services]
-  [services.disqus]
-  shortname = "Anirudh"
-
 [markup]
   [markup.highlight]
   noClasses = false
@@ -30,29 +23,20 @@ pagerSize = 6
   keywords = "Senior Software Engineer, Python Developer, Backend Engineer, Analytics Applications, Data-Driven Software, REST APIs, FastAPI, Flask, Dash, Data Visualization, SQL, Pandas, NumPy, MongoDB, MySQL, Azure, GCP, Google Cloud Platform, Docker, CI/CD, GitHub Actions, Azure DevOps, LLM API Integration, AI Enabled Applications, Workflow Automation, Full Stack Developer, Cloud Native Development, Chicago"
   avatarurl = "images/avatar.jpg"
 
-
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
   since = 2026
-
   enableTwemoji = false
-  
   colorScheme = "light"
   hidecolorschemetoggle = true
 
   customSCSS = ["scss/custom.scss"]
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
-
 # Social links
 [[params.social]]
-  medium = "Email"
+  name = "Email"
   icon = "fa fa-envelope fa-2x"
   weight = 1
   url = "mailto:shirahatianirudhs@gmail.com"
@@ -75,10 +59,7 @@ pagerSize = 6
   weight = 4
   url = "https://twitter.com/AnirudhS50/"
 
-# Menu links
-[languages.en]
-languageName = "English"
-
+# Navigation
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
@@ -100,6 +81,6 @@ weight = 4
 url = "recommendations/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 5
 url = "contact/"

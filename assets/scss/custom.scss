@@ -1,6 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* ─────────────────────────────
+   Design tokens
+   bg:      #f9f8f5  warm off-white
+   text:    #1c1917  warm near-black
+   muted:   #78716c  stone-500
+   subtle:  #44403c  stone-700
+   border:  #e7e5e0  stone-200
+   accent:  #1d4ed8  blue-700
+   hover:   #1e3a8a  blue-900
+───────────────────────────── */
+
+/* ─────────────────────────────
    Base
 ───────────────────────────── */
 
@@ -46,7 +57,6 @@ blockquote {
   padding: 2rem 2.4rem;
   border-radius: 0 8px 8px 0;
   margin: 3.2rem 0;
-  font-style: normal;
 }
 
 blockquote p {
@@ -100,10 +110,9 @@ blockquote p {
   font-size: 4.2rem;
   font-weight: 700;
   letter-spacing: -0.04em;
-  color: #0c0a09;
+  line-height: 1.1;
   margin-top: 2.4rem;
   margin-bottom: 1.6rem;
-  line-height: 1.1;
 }
 
 .about h2 {
@@ -131,7 +140,6 @@ blockquote p {
   color: #1d4ed8;
 }
 
-/* Avatar polish */
 .avatar img {
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
   border: 3px solid #ffffff;
@@ -149,45 +157,32 @@ blockquote p {
   font-size: 3.6rem;
   font-weight: 700;
   letter-spacing: -0.03em;
-  color: #0c0a09;
 }
 
 .content article p {
   text-align: left;
+  hyphens: none;
   -ms-hyphens: none;
   -webkit-hyphens: none;
-  hyphens: none;
   color: #292524;
   line-height: 1.95em;
 }
 
-/* Section headings: large, bold, clear */
 .content article h2 {
   font-size: 2.2rem;
   font-weight: 700;
   letter-spacing: -0.015em;
-  color: #0c0a09;
   margin-top: 5.6rem;
   margin-bottom: 1.8rem;
   padding-bottom: 0.8rem;
   border-bottom: 2px solid #e7e5e0;
 }
 
-/* Job/project title headings */
 .content article h3 {
   font-size: 2rem;
   font-weight: 600;
   letter-spacing: -0.015em;
-  color: #0c0a09;
   margin-top: 3.6rem;
-  margin-bottom: 0.8rem;
-}
-
-.content article h4 {
-  font-size: 1.8rem;
-  font-weight: 600;
-  color: #44403c;
-  margin-top: 2.4rem;
   margin-bottom: 0.8rem;
 }
 
@@ -200,12 +195,6 @@ blockquote p {
   color: #44403c;
 }
 
-/* Suppress any auto-generated list markers */
-.content article ul li::before {
-  content: none;
-}
-
-/* Links in content */
 .content article a {
   color: #1d4ed8;
   font-weight: 500;
