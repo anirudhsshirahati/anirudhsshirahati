@@ -220,6 +220,84 @@ blockquote p {
 }
 
 /* ─────────────────────────────
+   Contact Form
+───────────────────────────── */
+
+.contact-form {
+  max-width: 56rem;
+  margin-top: 2.4rem;
+}
+
+.form-group {
+  margin-bottom: 2rem;
+}
+
+.form-group label {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #44403c;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 1.2rem 1.4rem;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1.6rem;
+  color: #1c1917;
+  background: #ffffff;
+  border: 1.5px solid #e7e5e0;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  box-sizing: border-box;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form textarea:focus {
+  border-color: #1d4ed8;
+  box-shadow: 0 0 0 3px rgba(29, 78, 216, 0.1);
+}
+
+.contact-form textarea {
+  resize: vertical;
+  min-height: 14rem;
+  line-height: 1.7em;
+}
+
+.form-submit {
+  display: inline-block;
+  width: 100%;
+  padding: 1.4rem 2.4rem;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #ffffff;
+  background: #1d4ed8;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+  letter-spacing: -0.01em;
+}
+
+.form-submit:hover {
+  background: #1e3a8a;
+}
+
+.form-submit:active {
+  transform: translateY(1px);
+}
+
+/* ─────────────────────────────
    Footer
 ───────────────────────────── */
 
