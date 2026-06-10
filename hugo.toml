@@ -3,7 +3,7 @@ title = "Anirudh S Shirahati"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-enableEmoji = true
+enableEmoji = false
 
 [pagination]
 pagerSize = 6
@@ -22,12 +22,12 @@ pagerSize = 6
 [params]
   author = "Anirudh S Shirahati"
   info = [
-    "Sr. Software Engineer building Applied AI & LLM-powered backend systems",
-	"Python | FastAPI | LLMs | RAG | Docker | GCP | Azure",
-    "United States"
+    "Sr. Software Engineer | Analytics Applications | Backend Systems | Data-Driven Solutions",
+    "Python | FastAPI | Dash | SQL | Docker | Azure | GCP",
+    "Chicago, IL"
   ]
-  description = "Senior Software Engineer specializing in applied AI and LLM-powered backend systems. Expertise in Python, FastAPI, RAG architectures, AI evaluation, and cloud-native deployment on GCP and Azure."
-  keywords = "Senior Software Engineer, AI Engineer, Applied AI, LLM Systems, Large Language Models, Retrieval-Augmented Generation, RAG, AI Backend Engineer, Python, FastAPI, OpenAI API, Hugging Face, Prompt Engineering, LLM Evaluation, AI Model Evaluation, Bias Detection, Embeddings, Vector Search, REST APIs, Cloud-Native Applications, Docker, Containerized Services, Google Cloud Platform, GCP Cloud Run, BigQuery, Azure, CI/CD Pipelines"
+  description = "Senior Software Engineer with 6+ years of experience building analytics applications, backend systems, REST APIs, and data-driven software solutions using Python. Experienced in FastAPI, Dash, SQL, cloud-native deployment on Azure and GCP, and AI-enabled application development."
+  keywords = "Senior Software Engineer, Python Developer, Backend Engineer, Analytics Applications, Data-Driven Software, REST APIs, FastAPI, Flask, Dash, Data Visualization, SQL, Pandas, NumPy, MongoDB, MySQL, Azure, GCP, Google Cloud Platform, Docker, CI/CD, GitHub Actions, Azure DevOps, LLM API Integration, AI Enabled Applications, Workflow Automation, Full Stack Developer, Cloud Native Development, Chicago"
   avatarurl = "images/avatar.jpg"
 
 
@@ -37,7 +37,7 @@ pagerSize = 6
 
   since = 2026
 
-  enableTwemoji = true
+  enableTwemoji = false
   
   colorScheme = "light"
   hidecolorschemetoggle = true
@@ -75,7 +75,7 @@ pagerSize = 6
 
 # Menu links
 [languages.en]
-languageName = ":us:"
+languageName = "English"
 
 [[languages.en.menu.main]]
 name = "About"
