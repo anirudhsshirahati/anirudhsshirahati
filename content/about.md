@@ -6,47 +6,48 @@ aliases = ["about-me", "about-anirudh", "contact"]
 author = "Anirudh S Shirahati"
 +++
 
-Hi, I'm Anirudh — a Senior Software Engineer with over 6 years of experience in building impactful backend and AI-powered systems. My current focus is on developing applied AI and LLM-driven solutions using Python, FastAPI, and cloud technologies like GCP and Azure. I am passionate about delivering scalable, production-grade solutions that solve real-world business problems.
+Hi, I'm Anirudh — a Senior Software Engineer with over 6 years of experience building analytics applications, backend systems, REST APIs, and data-driven software solutions using Python. My focus is on delivering scalable, production-grade systems that support business operations and decision-making — across analytics dashboards, workflow automation, and cloud-native architectures.
 
 ---
 
 ## My Journey
 
-I started my journey in Computer Engineering with a Bachelor's degree from the University of Mumbai, followed by an M.S. in Computer Science (Data Science) from the University of North Carolina at Charlotte. Over the past 6+ years, I’ve had the privilege of working on a wide range of projects, from developing backend systems to building scalable AI applications.
+I started my engineering journey with a Bachelor's degree in Computer Engineering from the University of Mumbai, followed by an M.S. in Computer Science (Data Science) from the University of North Carolina at Charlotte. Over the past 6+ years, I've built production software across renewable energy, financial services, and independent product development.
 
-My work spans diverse industries and technologies, including financial services, renewable energy, and AI systems. Most recently, I've been focusing on applied AI, working extensively with LLMs (Large Language Models) and building scalable backend architectures that integrate AI-driven workflows.
-
----
-
-## Passion for AI & Engineering
-
-AI has the potential to revolutionize industries, automate complex workflows, and solve significant real-world problems. What excites me most is the ability to combine my software engineering skills with AI technologies to create scalable, high-impact solutions. From designing production-grade AI systems to optimizing machine learning pipelines, I am always exploring new ways to integrate AI into real-world applications.
-
-I'm particularly passionate about the challenge of working with Large Language Models (LLMs) and designing systems that are not only powerful but also reliable and fair. I’m committed to building AI systems that are ethical and efficient while delivering measurable business value.
+My career spans backend development, data-driven applications, and cloud infrastructure — from automating financial modeling workflows at a Fortune 500 energy company to building full-stack SaaS products independently. I bring the same focus to everything I build: clear architecture, practical outcomes, and software that works reliably at scale.
 
 ---
 
-## Key Skills & Expertise
+## What I Build
 
-I have a strong background in backend development and cloud-native systems, and I'm currently focused on designing and deploying AI-powered applications. My expertise includes the following technologies:
+I specialize in Python-based backend systems and applications that connect data, business logic, and user-facing interfaces. My work includes:
 
-### Core Skills:
-- **Programming**: Python, FastAPI, Java, JavaScript, Flask, Dash
-- **AI/ML**: LLMs, OpenAI API, Hugging Face, Prompt Engineering, RAG Architectures, ML Pipelines
-- **Cloud**: GCP (Cloud Run, Dataflow, BigQuery), Azure
-- **Databases**: SQL, MongoDB, BigQuery
-- **DevOps**: Docker, CI/CD (Azure DevOps, GitHub Actions)
+- **Analytics applications** built with Python and Dash, delivering real-time operational insights to business stakeholders
+- **Backend services and REST APIs** using FastAPI, designed for reliability and extensibility
+- **Workflow automation** that replaces manual processes with robust, maintainable software
+- **AI-enabled features** integrated pragmatically — using LLM APIs for document processing, conversational interfaces, and decision support
+- **Cloud deployments** across Azure and GCP, containerized with Docker and shipped via CI/CD
+
+---
+
+## Technical Skills
+
+- **Languages**: Python, Java, JavaScript
+- **Backend & APIs**: FastAPI, Flask, REST APIs, Backend Services
+- **Analytics & Data**: Dash, SQL, Data Analysis, Data Visualization, Pandas, NumPy
+- **Databases**: MySQL, MongoDB
+- **Cloud & DevOps**: Azure, GCP, Docker, CI/CD, Azure DevOps, GitHub Actions
+- **Frontend**: HTML, CSS, Vue.js
+- **AI & Automation**: LLM API Integration, Workflow Automation, AI Enabled Applications
 
 ---
 
 ## What I Offer
 
-I’m always open to new opportunities, whether it’s collaborating on innovative AI projects or helping businesses build scalable backend systems. If you're looking for someone to help you integrate LLMs, design machine learning pipelines, or optimize your AI workflows, let's connect.
-
-I also love collaborating with like-minded engineers and AI researchers. If you have exciting AI initiatives or projects, I'd be happy to discuss how we can drive innovation together.
+I'm open to full-time Software Engineering roles in the United States, as well as freelance collaborations and partnerships on interesting technical problems. If you're looking for an engineer who can take ownership of backend systems, analytics applications, or AI-enabled workflows — and ship production-grade software — let's connect.
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
-Feel free to explore my **[Projects](/projects)** to see how I’ve applied AI in real-world scenarios. If you're working on AI-related projects or have an exciting collaboration in mind, don’t hesitate to reach out to me through my **[Contact me](/contact)** page. Let’s connect and create something impactful together!
+Explore my **[Projects](/projects)** to see what I've built. If you have an opportunity or a collaboration in mind, reach out through my **[Contact](/contact)** page.
