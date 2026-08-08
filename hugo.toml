@@ -32,7 +32,8 @@ disableKinds = ["taxonomy", "term", "RSS"]
   ]
   description = "Senior Software Engineer with 6+ years of experience building Python based backend systems, REST APIs, and cloud native applications. Focused on Applied AI and LLM application engineering, building AI powered software with RAG, agent workflows, structured outputs, and local model inference, deployed on Azure and GCP."
   keywords = "Senior Software Engineer, AI Engineer, LLM Application Development, Applied AI, Retrieval Augmented Generation, RAG, AI Agents, Prompt Engineering, LangChain, LiteLLM, Hugging Face Transformers, Vector Stores, Chroma, Structured Outputs, JSON Schema, Model Quantization, Llama 3.1, Claude, OpenRouter, Python Developer, Backend Engineer, REST APIs, FastAPI, Flask, Pydantic, SQL, MySQL, MongoDB, Pandas, NumPy, Azure, GCP, Google Cloud Platform, Docker, CI/CD, GitHub Actions, Azure DevOps, Next.js, Vue.js, Full Stack Developer, Cloud Native Development, Illinois, USA"
-  avatarurl = "images/avatar.jpg"
+  # Temporary placeholder in place of a photo
+  avatarurl = "images/avatar-placeholder.png"
 
   faviconSVG = "/images/logos/favicon.svg"
   favicon_32 = "/images/logos/favicon-32x32.png"
