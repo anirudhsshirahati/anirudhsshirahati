@@ -1,0 +1,28 @@
+// ─────────────────────────────
+// Site palette: white, cream, green only.
+//
+// Single source of truth for every colour on the site. Nothing outside this
+// file should introduce a raw hex value; both the theme (via coder.scss) and
+// custom.scss draw their colours from here.
+// ─────────────────────────────
+
+// Green — page surfaces through to deep forest text
+$green-50:  #f8fdf9; // page background, faintest green tint
+$green-100: #f0faf5; // mint surface: blockquotes, cards
+$green-200: #c3e8d1; // borders, rules
+$green-300: #4d7260; // muted sage, secondary text
+$green-400: #3a5c49; // subtle, navigation text
+$green-500: #2d9e63; // bright accent, blockquote rule
+$green-600: #1a7a4a; // primary accent: links, focus
+$green-700: #0f5c36; // accent hover
+$green-800: #243b2f; // article body text
+$green-900: #1a2b22; // base body text
+$green-950: #0c2e1e; // headings, deep forest
+
+// Cream — used only where the theme would otherwise fall back to neutral grey
+// (code surfaces, table headers, notices). Warmer than mint against green text.
+$cream-100: #faf7ec; // cream surface
+$cream-200: #f0e9d6; // cream border
+
+// White
+$white: #ffffff;

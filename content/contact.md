@@ -1,9 +1,10 @@
 +++
 title = "Contact"
 slug = "contact"
+description = "Get in touch about software engineering roles, AI engineering work, or collaborations."
 +++
 
-Every great project begins with a conversation. Whether you have a specific opportunity in mind, want to explore working together, or just want to connect, I'd love to hear from you.
+Every great project begins with a conversation. Whether you have a role in mind, an AI powered idea you want to build, or just want to connect, I'd love to hear from you.
 
 ## Get in Touch
 

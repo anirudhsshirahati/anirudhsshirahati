@@ -1,1 +1,8 @@
 public
+
+# Secrets - never commit
+.env
+.claude/
+
+# Hugo build lock
+.hugo_build.lock

@@ -1,6 +1,7 @@
 +++
 title = "Recommendations"
 slug = "recommendations"
+description = "What colleagues, leaders, and collaborators have said about working with me."
 +++
 
 I've had the opportunity to work with incredible teams across industries.

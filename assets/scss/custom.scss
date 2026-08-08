@@ -1,26 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-/* ─────────────────────────────
-   Design tokens (White / Cream / Green palette)
-   bg:          #f8fdf9  near-white, faintest green tint
-   bg-mint:     #f0faf5  light mint (blockquotes, highlights)
-   text:        #1a2b22  near-black with warm green undertone
-   subtle:      #3a5c49  medium-dark green
-   muted:       #4d7260  muted sage green (secondary text)
-   border:      #c3e8d1  soft green border
-   accent:      #1a7a4a  primary green (links, focus)
-   accent-dark: #0f5c36  dark green (hover)
-   heading:     #0c2e1e  deep forest green
-───────────────────────────── */
+// Colours come from the shared palette; see _palette.scss. This stylesheet is
+// loaded after the theme's compiled CSS, so it handles typography and the
+// site's own components. Base theme colours are set at source in coder.scss.
+@import "palette";
 
 /* ─────────────────────────────
    Base
 ───────────────────────────── */
 
+// Font Awesome defaults --fa-border-color to a neutral grey. Nothing on the
+// site uses .fa-border today, but overriding the variable keeps the palette
+// complete without patching the vendored Font Awesome source.
+:root {
+  --fa-border-color: #{$green-200};
+}
+
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background-color: #f8fdf9;
-  color: #1a2b22;
+  background-color: $green-50;
+  color: $green-900;
   font-size: 1.7em;
   line-height: 1.85em;
   letter-spacing: -0.005em;
@@ -28,12 +27,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
-  color: #0c2e1e;
+  color: $green-950;
   letter-spacing: -0.02em;
 }
 
 a {
-  color: #1a7a4a;
+  color: $green-600;
   font-weight: 500;
   text-decoration: none;
   transition: color 0.2s ease;
@@ -41,7 +40,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #0f5c36;
+  color: $green-700;
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
@@ -49,13 +48,13 @@ a:hover {
 
 hr {
   border: none;
-  border-top: 1px solid #c3e8d1;
+  border-top: 1px solid $green-200;
   margin: 4rem 0;
 }
 
 blockquote {
-  border-left: 3px solid #2d9e63;
-  background: #f0faf5;
+  border-left: 3px solid $green-500;
+  background: $green-100;
   padding: 2rem 2.4rem;
   border-radius: 0 8px 8px 0;
   margin: 3.2rem 0;
@@ -63,7 +62,7 @@ blockquote {
 
 blockquote p {
   font-style: italic;
-  color: #243b2f;
+  color: $green-800;
   margin: 0;
   line-height: 2em;
 }
@@ -73,14 +72,14 @@ blockquote p {
 ───────────────────────────── */
 
 .navigation {
-  background-color: #ffffff;
-  border-bottom: 1px solid #c3e8d1;
+  background-color: $white;
+  border-bottom: 1px solid $green-200;
   height: 6.4rem;
 }
 
 .navigation a,
 .navigation span {
-  color: #3a5c49;
+  color: $green-400;
   font-size: 1.5rem;
   font-weight: 500;
   letter-spacing: 0;
@@ -91,12 +90,12 @@ blockquote p {
   font-weight: 700;
   letter-spacing: -0.02em;
   text-transform: none;
-  color: #0c2e1e;
+  color: $green-950;
 }
 
 .navigation a:hover,
 .navigation a:focus {
-  color: #1a7a4a;
+  color: $green-600;
   text-decoration: none;
 }
 
@@ -120,7 +119,7 @@ blockquote p {
 .about h2 {
   font-size: 1.65rem;
   font-weight: 400;
-  color: #4d7260;
+  color: $green-300;
   letter-spacing: 0;
   line-height: 3rem;
   margin-top: 0;
@@ -133,18 +132,18 @@ blockquote p {
 }
 
 .about ul li a {
-  color: #3a5c49;
+  color: $green-400;
   font-size: 1.6rem;
 }
 
 .about ul li a:hover,
 .about ul li a:focus {
-  color: #1a7a4a;
+  color: $green-600;
 }
 
 .avatar img {
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
-  border: 3px solid #ffffff;
+  border: 3px solid $white;
 }
 
 /* ─────────────────────────────
@@ -152,7 +151,7 @@ blockquote p {
 ───────────────────────────── */
 
 .content {
-  background-color: #f8fdf9;
+  background-color: $green-50;
 }
 
 .content header h1 {
@@ -161,12 +160,27 @@ blockquote p {
   letter-spacing: -0.03em;
 }
 
+// The theme nests <header> inside <article>, so the self-referential title
+// link would otherwise pick up the underlined article link styling and read
+// as a hyperlink. Style it as the heading it is.
+.content article header h1 .title-link {
+  color: $green-950;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.content article header h1 .title-link:hover,
+.content article header h1 .title-link:focus {
+  color: $green-600;
+  text-decoration: none;
+}
+
 .content article p {
   text-align: left;
   hyphens: none;
   -ms-hyphens: none;
   -webkit-hyphens: none;
-  color: #243b2f;
+  color: $green-800;
   line-height: 1.95em;
 }
 
@@ -177,7 +191,7 @@ blockquote p {
   margin-top: 5.6rem;
   margin-bottom: 1.8rem;
   padding-bottom: 0.8rem;
-  border-bottom: 2px solid #c3e8d1;
+  border-bottom: 2px solid $green-200;
 }
 
 .content article h3 {
@@ -189,16 +203,16 @@ blockquote p {
 }
 
 .content article strong {
-  color: #0c2e1e;
+  color: $green-950;
   font-weight: 600;
 }
 
 .content article em {
-  color: #3a5c49;
+  color: $green-400;
 }
 
 .content article a {
-  color: #1a7a4a;
+  color: $green-600;
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 3px;
@@ -206,8 +220,69 @@ blockquote p {
 }
 
 .content article a:hover {
-  color: #0f5c36;
+  color: $green-700;
   text-decoration-thickness: 2px;
+}
+
+.content article ul {
+  margin: 1.6rem 0 2.4rem;
+  padding-left: 2.4rem;
+}
+
+.content article ul li {
+  color: $green-800;
+  line-height: 1.9em;
+  margin-bottom: 0.6rem;
+}
+
+.content article ul li::marker {
+  color: $green-500;
+}
+
+/* ─────────────────────────────
+   Code and Tables
+   Cream surfaces: warmer than the mint used for quotes and cards, which keeps
+   code and data visually distinct from prose without leaving the palette.
+───────────────────────────── */
+
+code {
+  background-color: $cream-100;
+  color: $green-900;
+  border: 1px solid $cream-200;
+  font-size: 1.45rem;
+}
+
+pre {
+  background-color: $cream-100;
+  border: 1px solid $cream-200;
+  border-radius: 8px;
+  padding: 1.8rem 2rem;
+  overflow-x: auto;
+}
+
+pre code {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+
+table {
+  width: 100%;
+  margin: 2.4rem 0;
+  font-size: 1.5rem;
+}
+
+table th {
+  background-color: $cream-100;
+  color: $green-950;
+  font-weight: 600;
+  text-align: left;
+}
+
+table td,
+table th {
+  border: 1px solid $green-200;
+  padding: 1.2rem 1.6rem;
 }
 
 /* ─────────────────────────────
@@ -227,9 +302,11 @@ blockquote p {
   }
 }
 
-.contact-card {
-  background: #f0faf5;
-  border: 1px solid #c3e8d1;
+// Scoped under .contact-cards so the selector outweighs `.content article a`,
+// which would otherwise underline every line of text inside the card.
+.contact-cards .contact-card {
+  background: $green-100;
+  border: 1px solid $green-200;
   border-radius: 12px;
   padding: 2.4rem;
   text-decoration: none;
@@ -239,17 +316,17 @@ blockquote p {
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
-.contact-card:hover,
-.contact-card:focus {
+.contact-cards .contact-card:hover,
+.contact-cards .contact-card:focus {
   transform: translateY(-3px);
   box-shadow: 0 8px 32px rgba(26, 122, 74, 0.12);
-  border-color: #1a7a4a;
+  border-color: $green-600;
   text-decoration: none;
   color: inherit;
 }
 
 .contact-card .card-icon {
-  color: #1a7a4a;
+  color: $green-600;
   font-size: 2.4rem;
   margin-bottom: 1.2rem;
   line-height: 1;
@@ -258,14 +335,14 @@ blockquote p {
 .contact-card .card-title {
   font-size: 1.8rem;
   font-weight: 700;
-  color: #0c2e1e;
+  color: $green-950;
   margin-bottom: 0.8rem;
   letter-spacing: -0.02em;
 }
 
 .contact-card .card-desc {
   font-size: 1.5rem;
-  color: #4d7260;
+  color: $green-300;
   line-height: 1.7;
   flex-grow: 1;
   margin-bottom: 1.6rem;
@@ -274,7 +351,73 @@ blockquote p {
 .contact-card .card-action {
   font-size: 1.45rem;
   font-weight: 600;
-  color: #1a7a4a;
+  color: $green-600;
+}
+
+/* ─────────────────────────────
+   Project Cards
+───────────────────────────── */
+
+.project-meta {
+  display: block;
+  font-size: 1.4rem;
+  color: $green-300;
+  letter-spacing: 0.01em;
+  margin: -0.4rem 0 1.8rem;
+  line-height: 1.7;
+}
+
+.project-links {
+  margin-top: 1.6rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.project-status {
+  display: inline-block;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: $green-700;
+  background: $cream-100;
+  border: 1px solid $cream-200;
+  border-radius: 999px;
+  padding: 0.3rem 1.2rem;
+  letter-spacing: 0.01em;
+}
+
+/* ─────────────────────────────
+   Resume Download Callout
+───────────────────────────── */
+
+.resume-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.2rem 2rem;
+  background: $cream-100;
+  border: 1px solid $cream-200;
+  border-radius: 12px;
+  padding: 2rem 2.4rem;
+  margin: 2.4rem 0 3.2rem;
+  font-size: 1.5rem;
+}
+
+.resume-actions .resume-download {
+  display: inline-block;
+  background: $green-600;
+  color: $white;
+  font-weight: 600;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.resume-actions .resume-download:hover,
+.resume-actions .resume-download:focus {
+  background: $green-700;
+  color: $white;
+  text-decoration: none;
 }
 
 /* ─────────────────────────────
@@ -283,10 +426,10 @@ blockquote p {
 
 .calendly-container {
   margin-top: 2rem;
-  border: 1px solid #c3e8d1;
+  border: 1px solid $green-200;
   border-radius: 12px;
   overflow: hidden;
-  background-color: #f8fdf9;
+  background-color: $green-50;
   box-shadow: 0 2px 20px rgba(26, 122, 74, 0.07);
 }
 
@@ -299,18 +442,18 @@ blockquote p {
 ───────────────────────────── */
 
 .footer {
-  border-top: 1px solid #c3e8d1;
+  border-top: 1px solid $green-200;
   padding-top: 1.6rem;
-  color: #4d7260;
+  color: $green-300;
   font-size: 1.45rem;
 }
 
 .footer a {
-  color: #4d7260;
+  color: $green-300;
   font-weight: 400;
 }
 
 .footer a:hover {
-  color: #1a7a4a;
+  color: $green-600;
   text-decoration: none;
 }

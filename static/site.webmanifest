@@ -1,0 +1,26 @@
+{
+  "name": "Anirudh S Shirahati",
+  "short_name": "Anirudh S Shirahati",
+  "description": "Senior Software Engineer focused on Applied AI and LLM application engineering.",
+  "icons": [
+    {
+      "src": "/images/logos/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logos/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logos/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1a7a4a",
+  "background_color": "#f8fdf9",
+  "display": "standalone",
+  "start_url": "/"
+}

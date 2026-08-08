@@ -1,0 +1,69 @@
+// ─────────────────────────────
+// Project shadow of themes/hugo-coder/assets/scss/coder.scss.
+//
+// Hugo's union filesystem gives files under the project's assets/ precedence
+// over identically-pathed theme files, so this is the stylesheet that actually
+// compiles.
+//
+// Why shadow the entry point rather than override colours later: the theme
+// declares every colour with !default, so assigning them here — before
+// "variables" is imported — makes _palette.scss the source of truth for the
+// whole theme. Links, code, tables, tags and notices come out on-palette
+// without a single override selector.
+//
+// Maintenance note: the @import list below mirrors the theme's. If the theme
+// is upgraded and gains a new partial, add the matching @import here.
+// ─────────────────────────────
+
+@import "palette";
+
+// Theme colour variables (all !default upstream, so these assignments win)
+$bg-color: $green-50;
+$fg-color: $green-900;
+$alt-bg-color: $green-100;
+$alt-fg-color: $green-950;
+$darker-alt-bg-color: $cream-100;
+$link-color: $green-600;
+
+// Notice callouts — the theme ships six differently-hued variants; collapse
+// them onto the green/cream palette so every notice stays on-brand.
+$fg-color-notice-note-icon: $green-600;
+$bg-color-notice-note-title: $green-200;
+$bg-color-notice-note-content: $green-100;
+$fg-color-notice-tip-icon: $green-500;
+$bg-color-notice-tip-title: $green-200;
+$bg-color-notice-tip-content: $green-100;
+$fg-color-notice-example-icon: $green-700;
+$bg-color-notice-example-title: $cream-200;
+$bg-color-notice-example-content: $cream-100;
+$fg-color-notice-question-icon: $green-500;
+$bg-color-notice-question-title: $green-200;
+$bg-color-notice-question-content: $green-100;
+$fg-color-notice-info-icon: $green-600;
+$bg-color-notice-info-title: $green-200;
+$bg-color-notice-info-content: $green-100;
+$fg-color-notice-warning-icon: $green-700;
+$bg-color-notice-warning-title: $cream-200;
+$bg-color-notice-warning-content: $cream-100;
+$fg-color-notice-error-icon: $green-800;
+$bg-color-notice-error-title: $cream-200;
+$bg-color-notice-error-content: $cream-100;
+
+@import "css/normalize";
+@import "variables";
+@import "font-awesome/fontawesome";
+@import "font-awesome/regular";
+@import "font-awesome/solid";
+@import "font-awesome/brands";
+@import "font-awesome/v4-shims";
+@import "base";
+@import "content";
+@import "notices";
+@import "navigation";
+@import "pagination";
+@import "tabs";
+@import "taxonomies";
+@import "footer";
+@import "float";
+@import "mastodon";
+@import "syntax";

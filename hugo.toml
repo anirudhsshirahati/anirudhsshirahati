@@ -25,17 +25,22 @@ disableKinds = ["taxonomy", "term", "RSS"]
 [params]
   author = "Anirudh S Shirahati"
   info = [
-    "Sr. Software Engineer",
-    "Python · FastAPI · Dash · SQL · Docker · Azure · GCP",
-    "Chicago, IL"
+    "Senior Software Engineer",
+    "Applied AI and LLM Application Engineering",
+    "Python · FastAPI · RAG · LangChain · Docker · Azure · GCP",
+    "Illinois, USA"
   ]
-  description = "Senior Software Engineer with 6+ years of experience building analytics applications, backend systems, REST APIs, and data-driven software solutions using Python. Experienced in FastAPI, Dash, SQL, cloud-native deployment on Azure and GCP, and AI-enabled application development."
-  keywords = "Senior Software Engineer, Python Developer, Backend Engineer, Analytics Applications, Data-Driven Software, REST APIs, FastAPI, Flask, Dash, Data Visualization, SQL, Pandas, NumPy, MongoDB, MySQL, Azure, GCP, Google Cloud Platform, Docker, CI/CD, GitHub Actions, Azure DevOps, LLM API Integration, AI Enabled Applications, Workflow Automation, Full Stack Developer, Cloud Native Development, Chicago"
+  description = "Senior Software Engineer with 6+ years of experience building Python based backend systems, REST APIs, and cloud native applications. Focused on Applied AI and LLM application engineering, building AI powered software with RAG, agent workflows, structured outputs, and local model inference, deployed on Azure and GCP."
+  keywords = "Senior Software Engineer, AI Engineer, LLM Application Development, Applied AI, Retrieval Augmented Generation, RAG, AI Agents, Prompt Engineering, LangChain, LiteLLM, Hugging Face Transformers, Vector Stores, Chroma, Structured Outputs, JSON Schema, Model Quantization, Llama 3.1, Claude, OpenRouter, Python Developer, Backend Engineer, REST APIs, FastAPI, Flask, Pydantic, SQL, MySQL, MongoDB, Pandas, NumPy, Azure, GCP, Google Cloud Platform, Docker, CI/CD, GitHub Actions, Azure DevOps, Next.js, Vue.js, Full Stack Developer, Cloud Native Development, Illinois, USA"
   avatarurl = "images/avatar.jpg"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "/images/logos/favicon.svg"
+  favicon_32 = "/images/logos/favicon-32x32.png"
+  favicon_16 = "/images/logos/favicon-16x16.png"
+  touchicon = "/images/logos/apple-touch-icon.png"
+  mask_icon = "/images/logos/safari-pinned-tab.svg"
+  mask_icon_color = "#1a7a4a"
+  manifest = "/site.webmanifest"
 
   since = 2026
   enableTwemoji = false

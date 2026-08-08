@@ -1,0 +1,84 @@
+// ─────────────────────────────
+// Project shadow of the theme's _mastodon.scss.
+//
+// Identical to upstream apart from the .mastodon dialog custom properties,
+// which upstream sets to Mastodon's own brand colours (#282c37 / #9baec8 /
+// #00D9F5). Those are the last non-palette values the theme would emit, so
+// they are remapped onto green/cream here.
+// ─────────────────────────────
+
+@import "palette";
+
+.mastodon-wrapper {
+    display: flex;
+    gap: 3rem;
+    flex-direction: row;
+}
+
+.comment-level {
+    max-width: 3rem;
+    min-width: 3rem;
+}
+
+.reply-original {
+    display: none;
+}
+
+.mastodon-comment {
+    background-color: var(--body-background);
+    border-radius: var(--card-border-radius);
+    padding: var(--card-padding);
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    flex-grow: 2;
+
+    .comment {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+        flex-wrap: true;
+    }
+
+    .comment-avatar img {
+        width: 6rem;
+    }
+
+    .content {
+        flex-grow: 2;
+    }
+
+    .comment-author {
+        display: flex;
+        flex-direction: column;
+
+        &-name {
+            font-weight: bold;
+            a {
+                display: flex;
+                align-items: center;
+            }
+        }
+
+        &-date {
+            margin-left: auto;
+        }
+    }
+
+    .disabled {
+        color: var(--accent-color)
+    }
+}
+
+.mastodon-comment-content p:first-child {
+    margin-top: 0;
+}
+
+.mastodon {
+  --dlg-bg: #{$green-950};
+  --dlg-w: 600px;
+  --dlg-color: #{$green-200};
+  --dlg-button-p: 0.75em 2em;
+  --dlg-outline-c: #{$green-500};
+}

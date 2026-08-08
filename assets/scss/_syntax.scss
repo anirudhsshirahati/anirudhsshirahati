@@ -1,0 +1,79 @@
+// ─────────────────────────────
+// Project shadow of the theme's _syntax.scss.
+//
+// The upstream Chroma theme ships 69 hardcoded colours spanning maroon, teal,
+// navy and purple. This replaces them with a cream-surfaced, green-toned
+// scheme so highlighted code stays inside the site palette. Class names and
+// coverage mirror upstream exactly — only the colours differ.
+// ─────────────────────────────
+
+@import "palette";
+
+.bg,
+.chroma {
+  background-color: $cream-100;
+}
+
+.chroma {
+  // Structure
+  .lnlinks { outline: none; text-decoration: none; color: inherit; }
+  .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+  .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; }
+  .line { display: flex; }
+  .hl { background-color: $green-100; }
+
+  .lnt,
+  .ln {
+    white-space: pre;
+    user-select: none;
+    margin-right: 0.4em;
+    padding: 0 0.4em 0 0.4em;
+    color: $green-300;
+  }
+
+  // Errors
+  .err { color: $green-950; background-color: $cream-200; }
+
+  // Keywords and operators
+  .k, .kc, .kd, .kn, .kp, .kr,
+  .o, .ow {
+    color: $green-950;
+    font-weight: bold;
+  }
+
+  .kt { color: $green-700; font-weight: bold; }
+
+  // Names
+  .na, .no, .nv, .vc, .vg, .vi { color: $green-600; }
+  .nc, .nd, .ne, .nf, .nl { color: $green-700; font-weight: bold; }
+  .nb { color: $green-600; }
+  .bp, .nn { color: $green-300; }
+  .nt { color: $green-700; }
+
+  // Literals
+  .s, .sa, .sb, .sc, .dl, .sd, .s2, .se,
+  .sh, .si, .sx, .s1 { color: $green-600; }
+  .sr { color: $green-500; }
+  .ss { color: $green-700; }
+  .m, .mb, .mf, .mh, .mi, .il, .mo { color: $green-500; }
+
+  // Punctuation
+  .p { color: $green-800; }
+
+  // Comments
+  .c, .ch, .cm, .c1 { color: $green-300; font-style: italic; }
+  .cs, .cp, .cpf { color: $green-400; font-weight: bold; font-style: italic; }
+
+  // Generic (diffs, tracebacks, prompts)
+  .gd { color: $green-950; background-color: $cream-200; }
+  .gi { color: $green-950; background-color: $green-100; }
+  .ge { color: $green-950; font-style: italic; }
+  .gr, .gt { color: $green-800; }
+  .gh { color: $green-400; }
+  .go { color: $green-300; }
+  .gp { color: $green-400; }
+  .gs { font-weight: bold; }
+  .gu { color: $green-300; }
+  .gl { text-decoration: underline; }
+  .w { color: $green-200; }
+}

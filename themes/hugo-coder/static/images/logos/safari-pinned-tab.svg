@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome mask icon for Safari pinned tabs. Safari ignores the fill and
+     applies the mask-icon colour from the page, so this is a single silhouette
+     path: the diamond with the mark punched out via the evenodd fill rule. -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#000000" d="M16,0 L32,16 L16,32 L0,16 Z
+ M29.403,16 L21.874,23.529 L21.874,20.472 L26.346,16 L21.874,11.528 L21.874,8.471 Z
+ M19.811,9.464 L19.811,14.71 L12.166,14.71 L12.166,9.488 L16,5.654 Z
+ M19.811,16.492 L19.811,22.535 L16,26.346 L12.166,22.512 L12.166,16.492 Z
+ M10.126,11.528 L5.654,16 L10.126,20.472 L10.126,23.529 L2.597,16 L10.126,8.471 Z"/>
+</svg>
